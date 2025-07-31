@@ -1,0 +1,1001 @@
+User_ID,Cluster_ID,tsne_x,tsne_y,pca_x,pca_y,Banned_Categories,Allowed_Categories,Age,Age_Group,Gender,Religion,Mental_Condition,Physical_Condition
+0000001,3,-24.37037,20.30277,-7.0193434,33.408665,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,male,Islam,healthy,healthy
+0000002,2,21.02853,20.061934,-5.264858,5.0017147,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",20,young adults,male,Christianity,depression,healthy
+0000003,3,-24.393457,-6.786518,-15.36159,-1.5039722,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",18,adolescents,male,None,anxiety,hearing impairment
+0000004,2,21.875216,35.05987,31.30948,3.980621,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",45,middle-aged,male,Islam,healthy,visual impairment
+0000005,1,22.256176,-8.932407,27.137684,-15.781977,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",72,young elderly,female,Buddhism,depression,visual impairment
+0000006,3,-25.350973,-2.447951,-20.349733,2.4847171,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,male,None,healthy,intellectual disability
+0000007,4,-65.57643,-17.746136,-62.062397,-43.123577,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],2,infants & toddlers,male,None,healthy,intellectual disability
+0000008,1,38.02009,-11.119854,21.65959,-31.147629,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",96,long-lived elderly,male,Christianity,anxiety,hearing impairment
+0000009,4,-56.858032,2.0208604,-51.33068,-2.9789698,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,female,Christianity,healthy,visual impairment
+0000010,3,-20.472006,20.27384,-20.782764,30.644318,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",15,adolescents,male,Islam,anxiety,intellectual disability
+0000011,3,-27.729568,-0.3445891,-19.18433,3.869139,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,male,None,healthy,healthy
+0000012,2,17.76831,-2.1827435,29.76886,1.1209882,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",51,middle-aged,female,Buddhism,anxiety,hearing impairment
+0000013,3,-20.728722,22.015106,-24.165869,32.90379,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",13,adolescents,male,Islam,anxiety,healthy
+0000014,3,-6.8857727,14.168346,-27.616676,33.09205,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,female,Christianity,healthy,intellectual disability
+0000015,2,9.3333435,36.770054,33.44687,19.788963,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",53,middle-aged,female,Islam,war,healthy
+0000016,2,39.506657,9.166122,22.949474,1.2212926,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",26,young adults,male,Buddhism,natural disasters,hearing impairment
+0000017,3,-5.302198,12.969137,-21.159763,31.96,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",15,adolescents,female,Christianity,anxiety,intellectual disability
+0000018,2,17.632046,35.26274,18.337519,20.966885,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",25,young adults,male,Islam,healthy,intellectual disability
+0000019,2,33.06414,22.643997,26.609905,-7.6185184,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",57,middle-aged,male,Christianity,healthy,healthy
+0000020,4,-58.795467,3.6234407,-41.781105,8.195788,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,female,Islam,natural disasters,visual impairment
+0000021,1,26.389574,-11.142521,25.025282,-15.97703,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",67,young elderly,female,Christianity,major accidents,visual impairment
+0000022,4,-54.125835,-1.7061805,-46.83241,6.9127584,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,female,Buddhism,healthy,visual impairment
+0000023,4,-65.94039,-0.5659196,-51.474396,-15.032646,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],9,children,male,Christianity,natural disasters,hearing impairment
+0000024,3,19.867548,20.383673,-17.48814,-2.1849897,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",30,young adults,male,Christianity,depression,intellectual disability
+0000025,2,28.994516,17.122108,32.00846,-2.9473064,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",36,middle-aged,male,Christianity,war,visual impairment
+0000026,2,2.9614027,-0.68754363,26.818401,23.66467,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",29,young adults,male,Islam,sexual assault,healthy
+0000027,2,20.563997,32.21206,29.71325,9.026429,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",47,middle-aged,male,Islam,healthy,healthy
+0000028,1,22.589546,-7.078948,29.083242,-7.3408012,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",63,young elderly,female,Buddhism,war,healthy
+0000029,2,29.673573,12.645101,31.146782,-6.2521873,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",47,middle-aged,male,Christianity,depression,visual impairment
+0000030,1,30.041248,-9.6125345,20.456331,-22.245243,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",85,elderly,female,Christianity,healthy,healthy
+0000031,3,-7.37248,1.6289401,-2.5766778,31.312113,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",17,adolescents,female,Buddhism,sexual assault,hearing impairment
+0000032,2,17.718596,-4.94903,11.42279,-4.680964,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",40,middle-aged,female,Buddhism,natural disasters,intellectual disability
+0000033,2,18.328045,-0.3557555,28.143957,3.71839,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",41,middle-aged,female,Buddhism,healthy,hearing impairment
+0000034,2,15.556856,7.7818975,15.049275,21.86065,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",25,young adults,female,Christianity,healthy,intellectual disability
+0000035,2,39.707355,12.399681,31.410847,-6.593945,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",42,middle-aged,male,Buddhism,anxiety,visual impairment
+0000036,4,-70.48466,-1.0198706,-51.48148,-17.197117,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],10,children,male,Buddhism,healthy,healthy
+0000037,2,9.248913,36.867947,33.339745,19.537191,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",54,middle-aged,female,Islam,war,healthy
+0000038,0,-3.2536373,-22.030588,9.73578,2.1887445,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",25,young adults,female,None,natural disasters,intellectual disability
+0000039,1,14.027866,-36.155254,-1.9923575,-43.525,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",60,young elderly,male,None,anxiety,healthy
+0000040,1,34.97374,-6.760868,23.73084,-22.307928,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",68,young elderly,male,Christianity,healthy,healthy
+0000041,0,-4.563443,-41.473095,18.041626,-28.458794,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",44,middle-aged,male,None,healthy,hearing impairment
+0000042,3,-27.034624,12.659723,-8.5540085,16.095966,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,male,Christianity,healthy,hearing impairment
+0000043,4,19.278969,20.652605,-24.835836,-3.4363801,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",30,young adults,male,Christianity,healthy,intellectual disability
+0000044,3,-23.996588,-3.3393512,-14.470327,1.561295,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",19,adolescents,male,None,anxiety,intellectual disability
+0000045,1,19.793562,-29.549534,12.227131,-30.945667,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",71,young elderly,female,None,healthy,healthy
+0000046,3,-18.828075,-4.0011997,-28.000599,15.777055,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,female,None,healthy,hearing impairment
+0000047,3,-6.178819,0.78040236,1.859088,33.89192,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",19,adolescents,female,Christianity,sexual assault,healthy
+0000048,3,-8.947039,25.499111,-17.390642,43.847218,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,female,Islam,healthy,visual impairment
+0000049,4,-59.210777,-11.147385,-58.472374,-13.443068,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",9,children,female,None,anxiety,healthy
+0000050,1,19.008638,-26.560528,16.139336,-39.955585,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",77,elderly,female,None,natural disasters,healthy
+0000051,3,-27.171484,-3.377193,-19.786097,-2.6529963,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,male,None,healthy,hearing impairment
+0000052,3,-9.972369,27.496792,-23.028915,41.60491,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",13,adolescents,female,Islam,natural disasters,healthy
+0000053,4,-66.82306,-9.241769,-60.01016,-31.830694,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",8,children,male,None,healthy,visual impairment
+0000054,3,-5.497183,16.3466,-22.772638,31.78266,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,Christianity,healthy,visual impairment
+0000055,2,20.336853,7.4175715,22.649752,13.7618265,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",32,young adults,female,Christianity,natural disasters,healthy
+0000056,2,6.17039,-5.8226113,32.28617,8.792539,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",59,middle-aged,female,Buddhism,sexual assault,healthy
+0000057,2,37.357414,-2.9013083,27.216658,-7.9162884,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",65,young elderly,male,Islam,healthy,healthy
+0000058,4,-70.14715,0.23170644,-44.951344,-19.682163,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],10,children,male,Buddhism,anxiety,hearing impairment
+0000059,0,-5.831385,-44.875317,15.913351,-22.440744,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",46,middle-aged,male,None,healthy,healthy
+0000060,1,16.198042,-23.319422,-9.231933,-32.253056,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",60,young elderly,female,None,healthy,intellectual disability
+0000061,1,29.337458,-8.119684,21.825691,-12.660837,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",71,young elderly,female,Christianity,healthy,healthy
+0000062,3,-8.870902,7.614048,-0.24224927,25.719364,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",19,adolescents,female,Buddhism,natural disasters,healthy
+0000063,4,-68.555885,-0.4765544,-43.54261,-13.115044,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],10,children,male,Christianity,depression,healthy
+0000064,2,19.417938,5.851437,18.254616,17.706186,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",23,young adults,female,Christianity,major accidents,hearing impairment
+0000065,4,-58.673668,-9.678795,-57.064037,-9.226403,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",11,children,female,None,healthy,hearing impairment
+0000066,2,21.50032,32.09915,18.423931,3.7267022,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",50,middle-aged,male,Islam,healthy,healthy
+0000067,2,14.719968,-0.11773921,24.073502,14.972956,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",28,young adults,female,Buddhism,depression,hearing impairment
+0000068,2,22.32109,34.425037,31.269272,1.8059525,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",53,middle-aged,male,Islam,healthy,visual impairment
+0000069,3,-26.028042,10.852958,-25.159126,18.9632,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,male,Christianity,healthy,visual impairment
+0000070,4,-65.09799,-16.98466,-60.47251,-47.703648,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",2,infants & toddlers,male,None,healthy,hearing impairment
+0000071,1,40.781754,-0.9469013,28.761288,-13.532796,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",68,young elderly,male,Islam,depression,visual impairment
+0000072,2,5.913559,33.259705,20.319952,29.634472,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",32,young adults,female,Islam,healthy,intellectual disability
+0000073,3,-27.138023,12.810838,-5.996542,16.857449,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,male,Christianity,healthy,hearing impairment
+0000074,3,-28.53864,-3.694396,-36.300854,1.7892727,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,male,None,healthy,visual impairment
+0000075,2,5.1569724,32.55153,15.057852,35.58033,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",22,young adults,female,Islam,healthy,intellectual disability
+0000076,2,29.870329,16.863544,28.579348,-2.3646386,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",43,middle-aged,male,Christianity,war,intellectual disability
+0000077,2,26.43967,15.669421,23.651741,1.6418457,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",28,young adults,male,Christianity,major accidents,visual impairment
+0000078,1,40.170143,-1.1827967,27.385916,-12.268411,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",64,young elderly,male,Islam,anxiety,visual impairment
+0000079,3,-20.111362,8.363829,-3.8790503,18.293484,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",19,adolescents,male,Christianity,depression,intellectual disability
+0000080,3,-20.288298,19.516848,-21.757994,29.489252,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",13,adolescents,male,Islam,depression,intellectual disability
+0000081,3,-22.489222,7.651214,-18.028028,19.954948,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",14,adolescents,male,Christianity,depression,visual impairment
+0000082,3,-12.199005,1.3233299,-5.961182,25.938484,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",17,adolescents,male,Christianity,sexual assault,healthy
+0000083,2,9.379625,37.00343,33.174194,17.147526,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",59,middle-aged,female,Islam,war,healthy
+0000084,0,-5.3323617,-40.128307,11.725686,-18.94478,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",32,young adults,male,None,healthy,visual impairment
+0000085,1,15.621127,-34.1169,17.7459,-51.618855,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",79,elderly,male,None,major accidents,visual impairment
+0000086,2,18.861975,35.07118,26.769852,11.142995,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",35,middle-aged,male,Islam,healthy,intellectual disability
+0000087,4,-68.295944,-11.643111,-56.040573,-33.723522,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",8,children,male,None,major accidents,hearing impairment
+0000088,1,33.771442,-10.681252,21.209522,-29.692152,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",79,elderly,male,Christianity,healthy,intellectual disability
+0000089,4,-70.517334,-11.89999,-51.68138,-27.737501,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",8,children,male,None,depression,hearing impairment
+0000090,2,34.05675,19.260252,9.820874,-14.979298,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",40,middle-aged,male,Christianity,healthy,visual impairment
+0000091,2,5.5369563,-4.8214893,25.37335,22.374296,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",29,young adults,female,Buddhism,sexual assault,healthy
+0000092,1,17.501745,-33.330643,14.879138,-52.259464,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",77,elderly,male,None,healthy,hearing impairment
+0000093,2,14.20504,9.173314,14.448469,23.671112,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",23,young adults,female,Christianity,healthy,healthy
+0000094,2,38.34698,15.68197,19.120405,5.4559917,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",23,young adults,male,Buddhism,healthy,visual impairment
+0000095,1,36.78353,-7.9784813,27.600197,-23.083138,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",72,young elderly,male,Christianity,war,healthy
+0000096,0,-5.383563,-44.616467,16.506672,-23.003601,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",47,middle-aged,male,None,healthy,healthy
+0000097,3,-7.5982695,25.032375,-19.694069,45.097656,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,female,Islam,healthy,intellectual disability
+0000098,2,1.8635952,-5.423305,24.027954,22.665388,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",31,young adults,female,Christianity,sexual assault,healthy
+0000099,3,-7.0413566,27.567533,-15.615985,47.265007,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",14,adolescents,female,Islam,depression,healthy
+0000100,3,-27.995329,-3.5189252,-35.155827,1.4074249,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,male,None,healthy,hearing impairment
+0000101,4,-69.40175,-7.8616514,-63.14078,-27.539917,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",8,children,male,None,healthy,healthy
+0000102,0,-9.088435,-40.194244,17.459538,-19.058382,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",51,middle-aged,female,None,healthy,hearing impairment
+0000103,4,-71.51714,-12.287935,-54.424828,-31.390387,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",5,children,male,None,depression,healthy
+0000104,1,18.681799,-34.690365,14.178522,-46.975784,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",79,elderly,male,None,healthy,healthy
+0000105,3,-2.5725908,13.775277,-5.7762303,26.123705,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",18,adolescents,female,Christianity,anxiety,hearing impairment
+0000106,3,-11.272565,1.4995694,-13.454416,21.084846,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",15,adolescents,male,Buddhism,sexual assault,intellectual disability
+0000107,4,-61.43602,-13.412148,-52.99942,-26.712002,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",10,children,female,None,major accidents,hearing impairment
+0000108,2,32.620804,19.871027,28.989174,-11.735067,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",53,middle-aged,male,Christianity,healthy,visual impairment
+0000109,4,-62.40933,5.581022,-47.29519,6.927863,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],11,children,male,Islam,anxiety,intellectual disability
+0000110,2,2.6370108,-5.61093,28.366228,15.611345,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",37,middle-aged,female,Christianity,sexual assault,healthy
+0000111,3,-20.018536,21.434635,-19.71029,30.195168,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",14,adolescents,male,Islam,anxiety,hearing impairment
+0000112,2,41.48035,15.709917,31.485678,-14.926584,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",59,middle-aged,male,Buddhism,healthy,visual impairment
+0000113,3,-6.909387,1.4268013,-12.156197,33.35493,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",15,adolescents,female,Christianity,sexual assault,hearing impairment
+0000114,0,-3.7119632,-24.871056,13.206465,6.1348205,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",24,young adults,female,None,depression,healthy
+0000115,1,18.190353,-29.218433,13.550032,-38.08887,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",72,young elderly,female,None,healthy,hearing impairment
+0000116,3,-8.464989,27.327343,-22.99638,45.09182,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",13,adolescents,female,Islam,anxiety,healthy
+0000117,2,24.10526,38.2996,33.44939,1.0945307,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",56,middle-aged,male,Islam,major accidents,healthy
+0000118,1,36.518295,-10.37671,25.956621,-26.791382,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",69,young elderly,male,Christianity,major accidents,visual impairment
+0000119,4,-69.34557,2.3931854,-46.467964,-4.7809305,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,male,Buddhism,healthy,visual impairment
+0000120,3,-6.9094815,10.659925,-20.274675,30.072348,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",14,adolescents,female,Buddhism,anxiety,intellectual disability
+0000121,1,18.870752,-25.909136,14.880721,-44.57034,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",82,elderly,female,None,natural disasters,visual impairment
+0000122,3,-7.210712,29.01973,-13.448631,43.40049,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",15,adolescents,female,Islam,depression,visual impairment
+0000123,2,39.07136,11.426322,31.23389,-3.5342607,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",36,middle-aged,male,Buddhism,depression,hearing impairment
+0000124,3,-5.207446,29.085304,0.57079285,39.3974,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",19,adolescents,female,Islam,depression,hearing impairment
+0000125,2,-0.030615827,30.193344,-1.4581388,29.111856,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",20,young adults,female,Islam,depression,healthy
+0000126,3,-16.294474,8.729953,0.7362438,11.20944,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",19,adolescents,male,Buddhism,natural disasters,visual impairment
+0000127,2,8.828151,36.021564,26.881487,34.691868,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",28,young adults,female,Islam,war,healthy
+0000128,2,11.426497,6.7687645,20.211992,18.003077,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",28,young adults,female,Buddhism,healthy,healthy
+0000129,4,-55.65476,0.3278997,-44.814552,9.969962,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,female,Christianity,natural disasters,healthy
+0000130,2,36.80149,14.782051,20.43673,5.8390555,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",28,young adults,male,Buddhism,healthy,intellectual disability
+0000131,0,-4.2815247,-41.624023,18.114391,-28.685564,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",46,middle-aged,male,None,healthy,hearing impairment
+0000132,1,18.7537,-34.355076,11.713636,-49.278328,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",82,elderly,male,None,healthy,healthy
+0000133,4,-67.47135,2.9015744,-42.213886,-2.718047,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,male,Christianity,depression,visual impairment
+0000134,2,30.248962,24.03455,18.344553,7.171437,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",28,young adults,male,Christianity,healthy,healthy
+0000135,1,7.9989095,-7.5609612,11.009493,-9.332203,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",60,young elderly,female,Buddhism,sexual assault,hearing impairment
+0000136,1,45.60064,-3.982698,10.155181,-6.3949637,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",60,young elderly,female,Islam,depression,visual impairment
+0000137,2,7.1172943,34.171806,25.311462,21.146252,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",38,middle-aged,female,Islam,healthy,intellectual disability
+0000138,4,-55.05415,-1.4367938,-39.73035,6.8048615,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,female,Buddhism,major accidents,visual impairment
+0000139,0,-4.4860435,-23.423634,11.871644,3.3204632,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",27,young adults,female,None,depression,intellectual disability
+0000140,1,12.983514,-30.63553,18.334566,-47.247616,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",92,long-lived elderly,male,None,depression,visual impairment
+0000141,2,27.17386,21.703697,15.5405035,9.226026,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",26,young adults,male,Christianity,healthy,intellectual disability
+0000142,0,4.653339,-15.744029,19.272888,-14.909631,"['Harassment', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Propaganda', 'Self-Harm']",63,young elderly,female,None,sexual assault,healthy
+0000143,0,-6.2052336,-45.320866,15.918192,-19.252708,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",35,middle-aged,male,None,healthy,healthy
+0000144,2,23.086115,39.833214,12.291585,1.6649222,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",40,middle-aged,male,Islam,depression,intellectual disability
+0000145,4,-63.60766,-0.5947861,-58.103043,-10.1073885,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],9,children,male,Christianity,healthy,intellectual disability
+0000146,4,-65.44153,-16.051186,-64.977066,-34.116936,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",3,infants & toddlers,female,None,healthy,healthy
+0000147,3,-20.76699,22.058182,-24.949457,33.388103,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",13,adolescents,male,Islam,anxiety,healthy
+0000148,4,-63.53685,-4.7324014,-58.164757,-19.00918,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],11,children,male,None,anxiety,intellectual disability
+0000149,1,44.1633,-4.560692,27.342752,-5.010228,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",67,young elderly,female,Islam,major accidents,visual impairment
+0000150,4,-67.36555,1.7612643,-48.562317,-4.0797224,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,male,Christianity,healthy,visual impairment
+0000151,2,25.835995,16.416018,17.200539,5.5698204,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",26,young adults,male,Christianity,major accidents,intellectual disability
+0000152,1,14.406362,-31.939615,11.389398,-45.369015,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']","['Hate', 'Sexuality']",82,elderly,male,None,anxiety,intellectual disability
+0000153,1,27.549408,-11.313836,23.158857,-12.980423,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",73,young elderly,female,Christianity,anxiety,healthy
+0000154,2,32.326,19.935421,27.726841,-7.763513,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",43,middle-aged,male,Christianity,healthy,visual impairment
+0000155,1,34.71472,-15.068266,0.18459177,-31.833445,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",80,elderly,male,Christianity,natural disasters,hearing impairment
+0000156,3,-10.75623,12.096274,-18.518124,30.079292,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,female,Buddhism,healthy,hearing impairment
+0000157,1,13.2457695,-33.90094,11.905185,-38.857502,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",73,young elderly,male,None,healthy,intellectual disability
+0000158,2,14.128604,8.953438,13.008402,23.983715,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",22,young adults,female,Christianity,healthy,healthy
+0000159,0,-7.9885035,-42.85665,-2.5354629,-21.40611,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",40,middle-aged,female,None,healthy,healthy
+0000160,3,-9.538644,23.876402,-12.637999,48.632233,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,female,Islam,healthy,healthy
+0000161,3,-28.77053,14.642792,-3.881591,14.502804,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,male,Buddhism,healthy,hearing impairment
+0000162,2,22.477911,35.095833,31.633778,-0.37193817,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",56,middle-aged,male,Islam,healthy,visual impairment
+0000163,2,5.426774,37.533154,31.950886,21.262148,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",49,middle-aged,female,Islam,depression,healthy
+0000164,1,23.052322,-7.239047,27.594446,-12.004466,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",69,young elderly,female,Buddhism,major accidents,healthy
+0000165,3,-12.338218,-2.4675162,-8.636322,9.208207,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",18,adolescents,male,None,sexual assault,healthy
+0000166,4,-68.829895,4.415326,-37.30832,2.1836016,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,male,Buddhism,depression,healthy
+0000167,2,5.446489,37.56378,31.694223,19.044844,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",54,middle-aged,female,Islam,depression,healthy
+0000168,4,-69.56364,-6.083246,-59.159565,-16.166693,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",12,children,male,None,healthy,healthy
+0000169,2,18.049093,3.4532664,20.712864,19.27473,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",26,young adults,female,Christianity,depression,hearing impairment
+0000170,3,-20.019526,21.434319,-19.71029,30.195168,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",14,adolescents,male,Islam,anxiety,hearing impairment
+0000171,0,-10.639559,-28.931252,-19.052706,-19.080599,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",20,young adults,male,None,natural disasters,healthy
+0000172,2,0.9527064,-2.2231212,24.69118,36.66989,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",26,young adults,female,Islam,sexual assault,healthy
+0000173,1,14.041047,-25.224878,13.473796,-26.762274,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",66,young elderly,female,None,major accidents,intellectual disability
+0000174,0,4.1832275,-26.760944,16.340414,-9.757598,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",46,middle-aged,female,None,anxiety,intellectual disability
+0000175,3,-23.248276,7.7518935,-14.040734,21.214045,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",16,adolescents,male,Christianity,depression,hearing impairment
+0000176,1,38.905254,-2.5320597,25.740671,-17.682804,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",74,young elderly,male,Islam,healthy,hearing impairment
+0000177,3,-6.3837504,29.163862,-6.1149416,43.05339,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",17,adolescents,female,Islam,depression,visual impairment
+0000178,2,9.75368,32.89497,27.253872,24.401255,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",35,middle-aged,female,Islam,healthy,healthy
+0000179,2,17.649237,35.271286,19.113684,21.05672,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",26,young adults,male,Islam,healthy,intellectual disability
+0000180,2,14.406851,9.771615,17.854836,19.422775,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",28,young adults,female,Christianity,healthy,healthy
+0000181,0,-3.1864069,-30.722569,21.614975,-24.175585,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",42,middle-aged,male,None,major accidents,healthy
+0000182,1,40.85784,-14.249086,29.44283,-25.524366,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",71,young elderly,male,Buddhism,war,visual impairment
+0000183,3,-12.952057,3.2639287,-14.59052,32.064316,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",15,adolescents,male,Islam,sexual assault,intellectual disability
+0000184,2,30.97741,23.935295,19.132868,5.521794,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",33,young adults,male,Christianity,healthy,healthy
+0000185,2,3.540957,34.31908,22.245325,27.538492,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",32,young adults,female,Islam,depression,intellectual disability
+0000186,1,5.572961,-10.679316,24.598043,-14.069311,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",72,young elderly,male,Buddhism,sexual assault,intellectual disability
+0000187,2,20.11812,10.071294,23.678242,9.531967,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",37,middle-aged,female,Christianity,healthy,intellectual disability
+0000188,2,36.83315,10.074585,20.0335,8.31737,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",22,young adults,male,Buddhism,depression,hearing impairment
+0000189,3,-6.75267,8.334729,-5.4559155,29.71886,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",17,adolescents,female,Buddhism,depression,visual impairment
+0000190,2,42.6035,10.422403,28.636272,-11.552024,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",57,middle-aged,male,Buddhism,major accidents,intellectual disability
+0000191,3,-24.738163,12.022188,-24.26716,21.895266,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,male,Christianity,healthy,intellectual disability
+0000192,2,13.584136,-1.4365014,27.019455,15.359035,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",27,young adults,female,Buddhism,war,visual impairment
+0000193,1,17.095882,-34.50532,15.429346,-46.249157,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",71,young elderly,male,None,healthy,visual impairment
+0000194,1,35.91097,-14.734743,-1.7977223,-30.565708,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",70,young elderly,male,Christianity,anxiety,hearing impairment
+0000195,0,-9.08679,-43.304157,15.920212,-11.783383,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",44,middle-aged,female,None,healthy,healthy
+0000196,0,-4.392869,-44.668118,5.927471,-28.891882,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",50,middle-aged,male,None,healthy,healthy
+0000197,3,-19.616825,-4.404899,-18.498573,11.077063,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,female,None,healthy,hearing impairment
+0000198,3,-16.863989,-3.4826407,-36.54345,17.592232,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,female,None,healthy,intellectual disability
+0000199,3,-30.052752,13.3149395,-14.327854,21.697996,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,male,Buddhism,healthy,healthy
+0000200,3,-23.594515,6.8962846,-14.176325,24.34425,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",16,adolescents,male,Christianity,depression,healthy
+0000201,0,1.2425634,-14.55044,14.61731,-5.6284666,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",34,young adults,male,None,sexual assault,intellectual disability
+0000202,0,2.3122008,-13.850355,23.740294,-11.380074,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",44,middle-aged,male,None,sexual assault,healthy
+0000203,1,15.688539,-34.55064,16.997965,-49.98316,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",75,elderly,male,None,major accidents,healthy
+0000204,0,3.170036,-25.556925,18.977955,-6.793179,"['Harassment', 'Propaganda', 'Violence']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking']",38,middle-aged,female,None,war,intellectual disability
+0000205,2,2.6975925,-5.596988,29.27524,14.924032,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",42,middle-aged,female,Christianity,sexual assault,healthy
+0000206,1,13.995859,-31.62531,13.9368305,-45.94902,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']","['Hate', 'Sexuality']",85,elderly,male,None,depression,intellectual disability
+0000207,0,3.4758005,-28.732082,15.950945,-9.947899,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",47,middle-aged,female,None,healthy,intellectual disability
+0000208,3,-24.459698,20.277098,-4.180044,33.436882,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,male,Islam,healthy,healthy
+0000209,3,-22.277887,10.676418,-20.235334,15.834045,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",14,adolescents,male,Christianity,major accidents,visual impairment
+0000210,2,43.682163,12.999522,18.454561,-13.694046,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",40,middle-aged,male,Buddhism,war,visual impairment
+0000211,2,16.690683,5.475723,20.994835,19.88308,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",28,young adults,female,Christianity,anxiety,healthy
+0000212,3,-11.026763,14.138205,-22.8443,33.86952,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,Buddhism,healthy,healthy
+0000213,0,0.048693758,-27.52032,20.787762,-14.8530855,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",57,middle-aged,female,None,anxiety,healthy
+0000214,4,-53.543056,0.26232567,-49.351402,1.4940813,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,female,Buddhism,healthy,healthy
+0000215,3,-24.735523,12.542274,-10.508936,18.817513,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,male,Christianity,healthy,intellectual disability
+0000216,1,19.784025,-29.562277,11.423069,-31.126705,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",73,young elderly,female,None,healthy,healthy
+0000217,1,28.523216,-10.258089,21.928263,-19.213306,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",74,young elderly,female,Christianity,healthy,hearing impairment
+0000218,4,-64.84103,7.210049,-45.67717,-0.59034413,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,male,Islam,natural disasters,healthy
+0000219,2,43.029003,12.709292,34.50523,-5.769987,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",39,middle-aged,male,Buddhism,war,visual impairment
+0000220,2,7.4581685,34.557587,26.889828,13.77599,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",58,middle-aged,female,Islam,healthy,intellectual disability
+0000221,2,4.510074,-7.991373,23.026001,9.525843,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",29,young adults,male,Buddhism,sexual assault,intellectual disability
+0000222,1,41.116314,-1.7903998,27.943708,-20.506166,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",78,elderly,male,Islam,depression,hearing impairment
+0000223,3,-22.265108,21.606031,-26.435307,30.377682,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,male,Islam,healthy,visual impairment
+0000224,3,-26.18835,-6.5542936,-23.19691,-1.0451989,"['Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm']",16,adolescents,male,None,major accidents,visual impairment
+0000225,2,17.469427,40.721733,20.722788,17.192492,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",21,young adults,male,Islam,natural disasters,visual impairment
+0000226,1,38.688454,-1.3255188,22.551754,-13.292071,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",73,young elderly,male,Islam,healthy,intellectual disability
+0000227,2,42.05215,10.166301,29.502869,-7.7531614,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",46,middle-aged,male,Buddhism,natural disasters,intellectual disability
+0000228,2,3.774449,35.880978,24.325449,24.858921,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",34,young adults,female,Islam,anxiety,visual impairment
+0000229,2,4.9419756,-5.6116056,23.084269,18.669168,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",32,young adults,female,Buddhism,sexual assault,intellectual disability
+0000230,2,18.364584,-0.50683403,30.376074,1.5108196,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",49,middle-aged,female,Buddhism,healthy,visual impairment
+0000231,2,32.08285,20.06312,27.562574,-5.929909,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",37,middle-aged,male,Christianity,healthy,visual impairment
+0000232,2,18.215918,4.6177216,19.160227,17.970152,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",26,young adults,female,Christianity,anxiety,visual impairment
+0000233,2,23.320065,5.474413,24.809204,1.1975982,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",54,middle-aged,female,Christianity,major accidents,intellectual disability
+0000234,4,-71.73918,-8.303486,-57.97376,-20.675829,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",11,children,male,None,natural disasters,healthy
+0000235,1,29.429169,-12.451962,-3.2643054,-22.145124,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",70,young elderly,female,Christianity,healthy,hearing impairment
+0000236,2,9.74633,33.547707,28.325542,20.456295,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",45,middle-aged,female,Islam,healthy,healthy
+0000237,0,4.3469925,-14.751447,20.056875,-24.892784,"['Harassment', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Propaganda', 'Self-Harm']",62,young elderly,male,None,sexual assault,healthy
+0000238,1,19.69344,-26.917585,16.587423,-32.31228,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",69,young elderly,female,None,natural disasters,healthy
+0000239,0,-4.002944,-30.125988,20.9368,-25.079876,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",44,middle-aged,male,None,natural disasters,healthy
+0000240,2,24.561905,20.049824,19.522411,10.220193,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",25,young adults,male,Christianity,anxiety,healthy
+0000241,1,33.741085,-10.666992,19.175007,-33.641983,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",88,elderly,male,Christianity,healthy,intellectual disability
+0000242,2,32.288826,17.485579,25.709198,-9.309016,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",59,middle-aged,male,Christianity,healthy,intellectual disability
+0000243,2,19.869726,34.366936,21.208458,18.16221,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",24,young adults,male,Islam,healthy,visual impairment
+0000244,3,-6.0722213,30.200567,-2.6272426,36.89434,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",18,adolescents,female,Islam,anxiety,visual impairment
+0000245,0,-0.62951124,-36.496315,15.599036,-21.319084,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",45,middle-aged,male,None,healthy,intellectual disability
+0000246,2,16.439623,3.950392,18.764389,24.676676,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",23,young adults,female,Christianity,depression,healthy
+0000247,2,3.7676218,35.821083,24.164461,25.43377,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",33,young adults,female,Islam,anxiety,visual impairment
+0000248,0,-3.9926605,-33.417965,22.494528,-24.63159,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",52,middle-aged,male,None,anxiety,healthy
+0000249,3,-9.527633,24.236345,-16.825134,49.668137,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,female,Islam,healthy,healthy
+0000250,3,-17.042467,-6.2654867,-24.586836,17.266552,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",15,adolescents,female,None,depression,intellectual disability
+0000251,4,-70.48453,-1.0198054,-51.48148,-17.197117,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],10,children,male,Buddhism,healthy,healthy
+0000252,4,-62.48625,-6.0939302,-56.320194,-30.200525,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],6,children,male,None,depression,intellectual disability
+0000253,1,39.063152,-15.452506,7.0288143,-31.516497,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",60,young elderly,male,Buddhism,healthy,visual impairment
+0000254,3,-30.467373,13.176369,-20.121363,22.368608,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,male,Buddhism,healthy,healthy
+0000255,2,29.587143,15.342873,26.025347,-11.729339,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",57,middle-aged,male,Christianity,major accidents,intellectual disability
+0000256,2,4.86955,35.402267,24.948246,29.628563,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",34,young adults,female,Islam,anxiety,healthy
+0000257,1,34.669422,-5.8711567,22.957172,-19.478666,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",64,young elderly,male,Christianity,healthy,healthy
+0000258,2,19.079016,39.33433,23.501617,19.41135,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",26,young adults,male,Islam,depression,hearing impairment
+0000259,0,2.4028203,-24.33975,21.07687,-5.688045,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",39,middle-aged,female,None,war,healthy
+0000260,3,-21.780283,13.480796,-2.658485,17.390411,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",18,adolescents,male,Christianity,war,visual impairment
+0000261,2,31.226503,15.543315,24.46506,-1.5699042,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",35,middle-aged,male,Christianity,anxiety,intellectual disability
+0000262,1,18.387178,-36.189117,13.729419,-37.009995,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",64,young elderly,male,None,healthy,healthy
+0000263,3,-24.663574,8.257175,-21.488756,21.94611,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",15,adolescents,male,Christianity,anxiety,healthy
+0000264,3,-3.5228312,10.860362,-5.5336776,28.187395,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",18,adolescents,female,Christianity,depression,intellectual disability
+0000265,3,-13.066833,-5.068313,-27.772974,23.669449,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",13,adolescents,female,None,sexual assault,healthy
+0000266,1,24.210815,-8.320855,23.312586,-10.167197,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",65,young elderly,female,Buddhism,healthy,intellectual disability
+0000267,2,8.39992,33.114094,29.315456,18.655704,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",37,middle-aged,female,Islam,healthy,visual impairment
+0000268,3,-15.836195,-8.729389,-12.594287,16.92767,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",18,adolescents,female,None,war,healthy
+0000269,2,20.651865,32.15942,28.78069,6.763361,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",51,middle-aged,male,Islam,healthy,healthy
+0000270,3,-3.5032806,12.518715,-16.500486,35.102955,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",15,adolescents,female,Christianity,depression,healthy
+0000271,3,-11.119526,12.189407,-25.348635,29.8538,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,female,Buddhism,healthy,hearing impairment
+0000272,4,-64.276054,-17.151588,-54.48668,-47.008736,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",2,infants & toddlers,male,None,natural disasters,visual impairment
+0000273,4,-14.668679,-24.60204,-30.912376,-12.32042,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",30,young adults,female,None,natural disasters,intellectual disability
+0000274,3,-7.0367594,15.421592,-14.470737,33.65304,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,female,Christianity,healthy,intellectual disability
+0000275,2,21.14479,7.512305,28.004549,6.820667,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",35,middle-aged,female,Christianity,natural disasters,healthy
+0000276,2,41.349155,11.38112,33.582817,-8.899029,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",53,middle-aged,male,Buddhism,major accidents,healthy
+0000277,1,28.329775,-9.591114,23.16632,-13.499536,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",63,young elderly,female,Christianity,healthy,hearing impairment
+0000278,2,36.249603,10.894914,23.087433,10.214632,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",25,young adults,male,Buddhism,depression,healthy
+0000279,3,-7.084064,28.518375,-15.741648,42.45784,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",14,adolescents,female,Islam,depression,hearing impairment
+0000280,2,4.196099,25.869488,-9.052767,14.100812,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",20,young adults,male,Islam,healthy,intellectual disability
+0000281,4,-59.817738,-11.36777,-53.638233,-18.781414,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",8,children,female,None,anxiety,visual impairment
+0000282,3,-3.0552893,13.757815,-11.769431,30.155937,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",17,adolescents,female,Christianity,anxiety,hearing impairment
+0000283,3,-22.714378,21.367199,-16.137806,32.753254,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,male,Islam,healthy,hearing impairment
+0000284,1,37.36488,-3.1093261,26.081083,-9.812256,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",69,young elderly,male,Islam,healthy,healthy
+0000285,2,37.99509,16.273901,17.098656,6.8039775,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",21,young adults,male,Buddhism,healthy,hearing impairment
+0000286,2,36.824,14.7383375,21.441677,3.8049085,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",33,young adults,male,Buddhism,healthy,intellectual disability
+0000287,1,40.047348,-13.964289,28.503048,-26.722443,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",69,young elderly,male,Buddhism,major accidents,visual impairment
+0000288,3,-15.661116,-8.264335,-14.84349,11.750477,"['Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm']",18,adolescents,female,None,natural disasters,healthy
+0000289,2,4.4201274,37.689938,30.103699,16.467142,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",46,middle-aged,female,Islam,depression,hearing impairment
+0000290,0,1.7992224,-14.36362,19.465433,-11.855506,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",42,middle-aged,male,None,sexual assault,intellectual disability
+0000291,2,30.935432,24.503614,19.069155,6.419714,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",32,young adults,male,Christianity,healthy,healthy
+0000292,4,-67.31183,-7.819087,-60.03831,-22.064276,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",11,children,male,None,healthy,visual impairment
+0000293,0,0.2977278,-22.812643,17.217932,-0.8554308,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",31,young adults,female,None,war,visual impairment
+0000294,3,-22.71326,7.998402,-18.494034,20.486677,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",14,adolescents,male,Christianity,depression,visual impairment
+0000295,4,-66.02071,-10.197676,-63.96979,-37.823162,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",6,children,male,None,healthy,visual impairment
+0000296,2,22.828777,34.78452,31.45209,-1.3543198,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",58,middle-aged,male,Islam,healthy,visual impairment
+0000297,3,-21.737524,20.571392,-27.32386,31.675497,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,male,Islam,healthy,intellectual disability
+0000298,0,-1.3409584,-23.645329,10.98613,-3.4521413,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",24,young adults,female,None,major accidents,hearing impairment
+0000299,3,-5.3957005,29.487844,-1.1965665,38.007072,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",18,adolescents,female,Islam,depression,hearing impairment
+0000300,2,4.0360575,-1.1874802,27.36057,12.467322,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",39,middle-aged,male,Islam,sexual assault,intellectual disability
+0000301,1,17.970196,-27.091118,18.592726,-34.902866,"['Propaganda', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality']",76,elderly,female,None,war,healthy
+0000302,3,-22.277887,10.676418,-20.235334,15.834045,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",14,adolescents,male,Christianity,major accidents,visual impairment
+0000303,3,-5.499771,16.363928,-22.734604,32.533863,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,Christianity,healthy,visual impairment
+0000304,1,25.89575,-10.189014,21.748419,-14.473286,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",67,young elderly,female,Christianity,natural disasters,intellectual disability
+0000305,2,29.329363,21.688572,18.50536,5.4537253,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",25,young adults,male,Christianity,healthy,visual impairment
+0000306,3,-6.3030996,14.617538,-23.29551,34.009846,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,Christianity,healthy,intellectual disability
+0000307,1,13.56421,-26.024393,13.6625805,-23.312527,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']","['Hate', 'Sexuality']",61,young elderly,female,None,anxiety,intellectual disability
+0000308,2,0.9223518,-2.227268,23.910393,36.72355,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",24,young adults,female,Islam,sexual assault,healthy
+0000309,3,-5.4371996,28.026138,1.4400809,44.146988,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",19,adolescents,female,Islam,depression,healthy
+0000310,2,16.691158,5.475352,20.994835,19.88308,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",28,young adults,female,Christianity,anxiety,healthy
+0000311,0,2.0985563,-29.312666,7.3317013,4.807117,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",26,young adults,female,None,healthy,intellectual disability
+0000312,0,-6.940678,-31.4613,13.635328,-10.7943,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",29,young adults,male,None,anxiety,healthy
+0000313,4,-56.7296,-0.26863584,-44.760128,5.6333313,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,female,Christianity,major accidents,hearing impairment
+0000314,3,-23.904253,21.150288,-21.805836,35.717842,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,male,Islam,healthy,healthy
+0000315,2,18.857496,38.266087,26.98954,20.153551,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",33,young adults,male,Islam,depression,healthy
+0000316,4,-57.29767,1.0604,-46.967796,-2.049748,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,female,Christianity,anxiety,hearing impairment
+0000317,4,-65.94331,-10.698243,-61.54289,-38.815186,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",5,children,male,None,healthy,visual impairment
+0000318,4,-69.4067,-11.023262,-58.736065,-30.640623,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",8,children,male,None,major accidents,healthy
+0000319,2,1.1894373,-2.288269,26.456099,32.98964,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",32,young adults,female,Islam,sexual assault,healthy
+0000320,2,10.332693,32.90023,27.349709,23.400633,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",37,middle-aged,female,Islam,healthy,healthy
+0000321,4,-68.40312,-16.416466,-40.553013,-38.24758,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",0,infants & toddlers,male,None,healthy,visual impairment
+0000322,2,26.489279,14.551451,24.504837,-2.0014553,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",34,young adults,male,Christianity,natural disasters,visual impairment
+0000323,1,36.44338,-8.930426,25.123848,-28.47825,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",74,young elderly,male,Christianity,natural disasters,healthy
+0000324,2,36.249603,10.894914,23.087433,10.214632,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",25,young adults,male,Buddhism,depression,healthy
+0000325,2,25.327612,19.89599,16.523424,8.972526,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",22,young adults,male,Christianity,anxiety,hearing impairment
+0000326,2,36.794605,12.147632,24.925331,5.5171585,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",32,young adults,male,Buddhism,anxiety,healthy
+0000327,1,14.373741,-31.99147,14.120177,-44.294636,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']","['Hate', 'Sexuality']",78,elderly,male,None,anxiety,intellectual disability
+0000328,1,14.482372,-36.17872,-3.6594322,-46.46438,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",60,young elderly,male,None,major accidents,healthy
+0000329,3,-10.391538,1.217676,5.08172,19.052666,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",19,adolescents,male,Buddhism,sexual assault,visual impairment
+0000330,3,-6.5846777,14.134514,-27.616676,33.09205,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,female,Christianity,healthy,intellectual disability
+0000331,1,37.779118,-10.191716,22.857695,-29.348482,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",94,long-lived elderly,male,Christianity,major accidents,healthy
+0000332,2,6.797709,36.06875,25.926527,15.775703,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",44,middle-aged,female,Islam,major accidents,intellectual disability
+0000333,4,-65.9803,-0.6025997,-48.232307,-16.67809,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,male,Christianity,natural disasters,hearing impairment
+0000334,2,18.5301,41.091312,19.392885,17.919487,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",21,young adults,male,Islam,major accidents,hearing impairment
+0000335,0,-3.5857487,-40.67394,19.595997,-34.64678,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",59,middle-aged,male,None,healthy,visual impairment
+0000336,4,-64.35596,-6.745062,-65.62282,-33.154884,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],6,children,male,None,healthy,intellectual disability
+0000337,2,33.506157,17.91753,8.216828,-10.5096445,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",40,middle-aged,male,Christianity,healthy,intellectual disability
+0000338,2,18.856041,-3.2417688,30.97126,-2.0600736,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",54,middle-aged,female,Buddhism,major accidents,hearing impairment
+0000339,0,-10.916198,-44.122013,8.216969,0.004552339,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",29,young adults,female,None,healthy,healthy
+0000340,4,-64.60306,5.101787,-46.076992,13.093925,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,male,Islam,healthy,healthy
+0000341,2,16.779526,40.58942,18.330906,18.341574,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",23,young adults,male,Islam,natural disasters,intellectual disability
+0000342,2,4.3408203,37.475628,30.98729,19.677536,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",37,middle-aged,female,Islam,depression,visual impairment
+0000343,2,23.669844,19.180334,21.17235,11.854359,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",26,young adults,male,Christianity,depression,healthy
+0000344,0,-0.59495527,-26.732218,21.31331,-16.052485,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",45,middle-aged,female,None,anxiety,visual impairment
+0000345,1,26.745846,-8.8259,20.029564,-9.561073,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",63,young elderly,female,Christianity,healthy,intellectual disability
+0000346,0,0.2086179,-25.21948,20.804298,-18.154469,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",44,middle-aged,female,None,natural disasters,visual impairment
+0000347,1,45.49705,-4.3855247,8.118129,-11.166309,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",60,young elderly,female,Islam,natural disasters,visual impairment
+0000348,3,-27.461977,10.585423,-25.919682,19.805145,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,male,Christianity,healthy,hearing impairment
+0000349,3,-23.790737,-6.887425,-11.020558,0.18536289,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",18,adolescents,male,None,depression,visual impairment
+0000350,2,17.036797,5.5017214,21.53665,17.055725,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",33,young adults,female,Christianity,anxiety,healthy
+0000351,3,-21.47074,8.817425,-23.193823,19.88723,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",15,adolescents,male,Christianity,anxiety,intellectual disability
+0000352,3,-7.0534234,24.65246,-4.4662466,41.998882,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,female,Islam,healthy,intellectual disability
+0000353,3,-28.048038,-3.7855613,-36.416985,1.8960198,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,male,None,healthy,hearing impairment
+0000354,0,-0.83325905,-27.080269,20.700636,-16.332382,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",48,middle-aged,female,None,anxiety,hearing impairment
+0000355,2,1.889885,33.077065,17.004242,30.22634,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",22,young adults,female,Islam,natural disasters,intellectual disability
+0000356,1,19.716917,-33.487305,10.292912,-44.379227,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",97,long-lived elderly,male,None,healthy,healthy
+0000357,3,-11.494967,14.498963,-27.716106,32.94472,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,female,Buddhism,healthy,healthy
+0000358,2,25.181719,18.25608,17.897552,6.3621993,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",28,young adults,male,Christianity,anxiety,intellectual disability
+0000359,3,-19.596478,6.612756,-12.60331,19.400045,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",16,adolescents,male,Buddhism,depression,intellectual disability
+0000360,4,-57.343513,-8.697397,-60.379906,-5.241439,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",11,children,female,None,healthy,healthy
+0000361,4,-67.8628,0.06792391,-52.42421,-20.458344,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],10,children,male,Christianity,healthy,visual impairment
+0000362,4,-67.06274,1.6973276,-50.85087,-5.4577017,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,male,Christianity,healthy,hearing impairment
+0000363,3,-4.047699,13.241688,-20.3944,34.20249,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",15,adolescents,female,Christianity,anxiety,healthy
+0000364,2,38.832855,18.825678,22.044666,4.522495,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",33,young adults,male,Buddhism,healthy,healthy
+0000365,0,-15.564969,-24.588985,-22.44624,-7.147892,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",30,young adults,female,None,depression,healthy
+0000366,1,23.363413,-11.128833,25.6497,-25.783852,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",85,elderly,female,Buddhism,natural disasters,healthy
+0000367,3,-30.50158,11.018826,-8.403836,20.82061,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,male,Christianity,healthy,healthy
+0000368,2,23.539358,19.242996,21.765255,11.433429,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",26,young adults,male,Christianity,depression,healthy
+0000369,1,16.15609,-37.032333,18.019218,-40.005386,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",62,young elderly,male,None,natural disasters,healthy
+0000370,2,18.708681,37.39752,25.912827,18.598913,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",33,young adults,male,Islam,anxiety,healthy
+0000371,3,-11.076287,14.598311,-23.503777,34.148632,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,Buddhism,healthy,healthy
+0000372,1,38.8656,-13.084963,24.513405,-33.223995,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",82,elderly,male,Buddhism,anxiety,visual impairment
+0000373,3,-7.706196,7.2802615,0.5435021,25.14805,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",18,adolescents,female,Buddhism,war,visual impairment
+0000374,2,20.614538,2.6276834,30.318357,5.401469,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",56,middle-aged,female,Christianity,depression,healthy
+0000375,2,4.9644012,-5.662275,23.308054,17.768333,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",34,young adults,female,Buddhism,sexual assault,intellectual disability
+0000376,2,2.7442245,35.571224,23.129292,30.899487,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",26,young adults,female,Islam,depression,visual impairment
+0000377,2,40.407894,18.380669,30.136349,-7.5201807,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",56,middle-aged,male,Buddhism,healthy,healthy
+0000378,2,19.081284,32.272617,22.539257,18.62103,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",33,young adults,male,Islam,healthy,healthy
+0000379,3,-25.657587,-2.712658,-28.985983,6.4672256,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,male,None,healthy,intellectual disability
+0000380,4,-71.73724,-8.3036375,-57.97376,-20.675829,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",11,children,male,None,natural disasters,healthy
+0000381,2,38.755833,12.389418,32.83105,-5.9256353,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",54,middle-aged,male,Buddhism,anxiety,healthy
+0000382,2,5.913559,33.259705,20.319952,29.634472,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",32,young adults,female,Islam,healthy,intellectual disability
+0000383,1,19.778103,-24.352667,-2.953833,-40.6773,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",60,young elderly,female,None,natural disasters,visual impairment
+0000384,2,18.37233,38.423996,23.968603,23.947826,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",25,young adults,male,Islam,depression,healthy
+0000385,1,41.545547,-5.1003838,24.771147,1.8316773,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",66,young elderly,female,Islam,healthy,healthy
+0000386,2,18.848288,6.432833,20.680426,20.13512,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",26,young adults,female,Christianity,major accidents,healthy
+0000387,0,-6.411692,-30.634953,16.772905,-9.626848,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",31,young adults,male,None,depression,healthy
+0000388,2,3.5492034,26.204021,-17.5777,6.464192,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",30,young adults,male,Islam,healthy,visual impairment
+0000389,0,-3.1742754,-30.736677,22.043066,-27.765085,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",52,middle-aged,male,None,major accidents,healthy
+0000390,3,-6.367853,9.988786,-16.250784,30.989601,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",14,adolescents,female,Buddhism,depression,intellectual disability
+0000391,2,31.053495,13.939147,29.53045,-4.1259737,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",49,middle-aged,male,Christianity,anxiety,healthy
+0000392,1,29.539959,-10.397747,23.166357,-21.973272,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",76,elderly,female,Christianity,healthy,visual impairment
+0000393,4,-69.417175,2.7806728,-46.467964,-4.7809305,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,male,Buddhism,healthy,visual impairment
+0000394,0,0.30467042,-36.810543,-1.4167149,-27.322784,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",40,middle-aged,male,None,healthy,intellectual disability
+0000395,3,-10.368213,12.189653,-10.7624,30.398003,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,female,Buddhism,healthy,hearing impairment
+0000396,1,38.42966,-16.063631,1.8469156,-30.747145,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",70,young elderly,male,Buddhism,natural disasters,healthy
+0000397,3,-9.2428465,23.862265,-11.94835,48.02988,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,female,Islam,healthy,healthy
+0000398,4,-69.28636,-8.842271,-67.119286,-34.04949,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",6,children,male,None,healthy,healthy
+0000399,3,-20.46765,11.074149,-16.983156,18.07608,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",16,adolescents,male,Christianity,natural disasters,intellectual disability
+0000400,2,20.362234,37.32647,31.893496,9.785821,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",46,middle-aged,male,Islam,anxiety,healthy
+0000401,2,7.1574464,31.760904,23.073345,26.125725,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",33,young adults,female,Islam,healthy,hearing impairment
+0000402,2,29.001259,17.126415,32.32965,-4.079455,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",38,middle-aged,male,Christianity,war,visual impairment
+0000403,4,-53.936832,1.7096742,-48.36242,13.102194,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,female,Christianity,healthy,healthy
+0000404,0,-6.6235213,-30.389486,11.938743,-4.5309014,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",23,young adults,male,None,depression,healthy
+0000405,2,2.2878702,35.823948,22.007687,30.866043,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",24,young adults,female,Islam,depression,hearing impairment
+0000406,3,-10.2606125,9.149181,-21.114445,24.846537,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",13,adolescents,female,Buddhism,major accidents,hearing impairment
+0000407,1,22.446857,-7.533829,27.588741,-15.54556,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",71,young elderly,female,Buddhism,war,visual impairment
+0000408,3,-6.081285,17.744707,-5.455623,29.125004,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,female,Christianity,healthy,hearing impairment
+0000409,2,17.428946,-4.7297773,10.143209,-1.5281869,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",40,middle-aged,female,Buddhism,anxiety,intellectual disability
+0000410,4,-69.35408,-11.181903,-59.010754,-32.5171,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",7,children,male,None,major accidents,healthy
+0000411,2,21.65817,3.9457414,28.523136,3.0689769,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",49,middle-aged,female,Christianity,anxiety,visual impairment
+0000412,3,-4.264003,14.0021305,-24.858791,30.021885,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",13,adolescents,female,Christianity,anxiety,visual impairment
+0000413,0,4.8673553,-26.556759,18.66835,-13.851146,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",58,middle-aged,female,None,depression,intellectual disability
+0000414,4,-64.67723,-0.92323625,-53.151367,-13.633368,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],9,children,male,Christianity,natural disasters,intellectual disability
+0000415,0,-0.288333,-22.707335,15.846859,-0.35757428,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",27,young adults,female,None,war,hearing impairment
+0000416,0,-1.8418809,-34.438366,18.041159,-22.898176,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",51,middle-aged,male,None,anxiety,intellectual disability
+0000417,1,16.496756,-23.200499,-15.545526,-32.96595,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",70,young elderly,female,None,healthy,intellectual disability
+0000418,3,-30.409594,13.662176,-23.35091,21.460785,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,male,Buddhism,healthy,healthy
+0000419,3,-7.9319973,9.3418665,-9.092567,32.198906,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",17,adolescents,female,Buddhism,anxiety,healthy
+0000420,0,-1.9783424,-37.271893,8.71834,-9.777655,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",29,young adults,male,None,healthy,intellectual disability
+0000421,2,23.856846,39.12279,26.929014,5.1412706,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",43,middle-aged,male,Islam,major accidents,intellectual disability
+0000422,2,22.27311,6.6095886,29.63666,4.75278,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",48,middle-aged,female,Christianity,major accidents,healthy
+0000423,3,-3.4797723,10.878839,-3.4689825,29.150675,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",19,adolescents,female,Christianity,depression,intellectual disability
+0000424,3,-8.02702,27.236542,-17.495523,46.138775,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",15,adolescents,female,Islam,anxiety,healthy
+0000425,2,19.523376,5.86264,21.646557,14.620125,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",27,young adults,female,Christianity,major accidents,hearing impairment
+0000426,1,34.531197,-6.8610854,23.392588,-21.991201,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",68,young elderly,male,Christianity,healthy,healthy
+0000427,4,-67.18347,-10.272801,-61.654957,-33.85938,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",7,children,male,None,healthy,hearing impairment
+0000428,0,-10.402256,-44.02336,8.509544,-1.6145897,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",33,young adults,female,None,healthy,healthy
+0000429,2,24.529728,20.097612,17.597761,12.192577,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",23,young adults,male,Christianity,anxiety,healthy
+0000430,3,1.3532544,28.080513,-17.675047,18.176327,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",30,young adults,female,Islam,healthy,hearing impairment
+0000431,2,11.540552,4.375752,16.829548,19.219172,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",21,young adults,female,Buddhism,healthy,hearing impairment
+0000432,4,-69.846176,-7.617681,-65.2142,-25.061817,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",9,children,male,None,healthy,healthy
+0000433,2,11.123954,6.323899,18.391434,20.342709,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",26,young adults,female,Buddhism,healthy,healthy
+0000434,2,28.83996,14.676148,30.652975,-8.7406645,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",53,middle-aged,male,Christianity,major accidents,healthy
+0000435,3,-19.343298,6.663755,-3.328795,15.69606,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",18,adolescents,male,Buddhism,depression,intellectual disability
+0000436,3,-18.10166,-3.1861446,-33.81561,14.806899,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,None,healthy,visual impairment
+0000437,0,-6.378929,-44.532516,16.1795,-21.515049,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",42,middle-aged,male,None,healthy,healthy
+0000438,0,3.3409557,-28.296524,15.950945,-9.947899,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",47,middle-aged,female,None,healthy,intellectual disability
+0000439,1,34.25179,-5.6236157,24.0579,-18.07288,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",61,young elderly,male,Christianity,healthy,healthy
+0000440,3,-23.22713,10.446175,-26.962086,18.758238,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",13,adolescents,male,Christianity,major accidents,healthy
+0000441,3,-8.905183,25.511248,-19.067581,44.478466,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,Islam,healthy,visual impairment
+0000442,1,12.3266945,-32.373093,16.92102,-33.32587,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']","['Hate', 'Sexuality']",64,young elderly,male,None,depression,intellectual disability
+0000443,4,-71.29963,-11.441387,-53.27373,-24.584763,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",8,children,male,None,depression,healthy
+0000444,2,32.56965,23.066769,26.34352,-4.06836,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",47,middle-aged,male,Christianity,healthy,healthy
+0000445,1,4.8188677,-14.243079,18.961618,-31.361563,"['Harassment', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Propaganda', 'Self-Harm']",71,young elderly,male,None,sexual assault,visual impairment
+0000446,3,-20.26872,10.046589,-5.705551,14.426988,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",19,adolescents,male,Christianity,major accidents,intellectual disability
+0000447,2,11.3861685,6.307732,17.897675,20.892046,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",25,young adults,female,Buddhism,healthy,healthy
+0000448,1,40.747894,-13.084914,23.997698,-26.447325,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",73,young elderly,male,Buddhism,natural disasters,intellectual disability
+0000449,3,-9.063267,23.474329,-6.3697486,44.18698,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,female,Islam,healthy,healthy
+0000450,2,16.519812,-3.4241302,28.183733,1.4774368,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",59,middle-aged,female,Buddhism,depression,intellectual disability
+0000451,2,40.537075,15.600201,30.759249,-7.802933,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",41,middle-aged,male,Buddhism,healthy,visual impairment
+0000452,0,-8.267329,-46.1761,3.8049278,-6.892127,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",23,young adults,male,None,healthy,healthy
+0000453,0,2.7067516,-14.989376,24.063683,-20.479738,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",58,middle-aged,male,None,sexual assault,visual impairment
+0000454,2,5.710424,-6.3205514,31.222595,10.598166,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",41,middle-aged,female,Buddhism,sexual assault,visual impairment
+0000455,4,-60.1375,-5.465143,-55.901855,-11.303168,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],9,children,female,None,depression,intellectual disability
+0000456,1,40.13833,-12.146797,27.247723,-22.711035,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",72,young elderly,male,Buddhism,anxiety,healthy
+0000457,4,-57.015785,0.08256813,-45.799164,7.5813665,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,female,Christianity,anxiety,visual impairment
+0000458,1,34.177654,-6.4514256,23.81508,-20.958202,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",67,young elderly,male,Christianity,healthy,healthy
+0000459,1,36.453793,-12.045252,24.537893,-27.335255,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",71,young elderly,male,Christianity,anxiety,visual impairment
+0000460,0,-11.522218,-43.512524,5.2918334,3.6631756,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",24,young adults,female,None,healthy,healthy
+0000461,1,12.919789,-34.004818,13.375811,-37.20533,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",69,young elderly,male,None,healthy,intellectual disability
+0000462,3,-17.92356,-3.0464277,-38.549202,14.075858,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,female,None,healthy,visual impairment
+0000463,2,23.6153,18.631912,24.099758,7.770967,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",32,young adults,male,Christianity,depression,healthy
+0000464,3,-8.255787,10.41278,-22.52442,27.921276,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",13,adolescents,female,Buddhism,anxiety,hearing impairment
+0000465,0,-6.701691,-33.09949,15.702222,-16.95582,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",33,young adults,male,None,anxiety,hearing impairment
+0000466,1,26.929613,-9.334896,18.832409,-14.431474,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",73,young elderly,female,Christianity,healthy,intellectual disability
+0000467,2,43.3301,11.407428,31.977383,-5.7405577,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",53,middle-aged,male,Buddhism,war,intellectual disability
+0000468,0,-7.8841505,-32.398945,8.959658,-10.470157,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",21,young adults,male,None,anxiety,visual impairment
+0000469,3,-12.988068,2.5573604,-4.4266024,36.844765,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",17,adolescents,male,Islam,sexual assault,healthy
+0000470,2,18.128164,10.303572,25.977259,4.9026875,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",41,middle-aged,female,Christianity,healthy,hearing impairment
+0000471,3,-9.660787,8.608778,-16.42527,30.673515,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",15,adolescents,female,Buddhism,major accidents,healthy
+0000472,1,35.99684,-12.049811,25.778526,-25.687626,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",71,young elderly,male,Christianity,depression,hearing impairment
+0000473,3,-15.680311,-7.5693746,-22.27052,11.550346,"['Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm']",16,adolescents,female,None,natural disasters,visual impairment
+0000474,4,-64.02915,6.7933383,-42.753754,5.02953,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,male,Islam,depression,healthy
+0000475,4,-58.59526,-9.612236,-57.88704,-8.7840605,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",11,children,female,None,healthy,hearing impairment
+0000476,0,-10.463394,-43.520145,9.159292,-1.9705808,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",34,young adults,female,None,healthy,healthy
+0000477,3,-6.9820037,14.736368,-22.067842,34.133537,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,female,Christianity,healthy,intellectual disability
+0000478,4,-55.706917,-3.683365,-49.042492,-4.9633822,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],10,children,female,Buddhism,healthy,intellectual disability
+0000479,0,-4.4940352,-23.349281,10.366513,5.300717,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",25,young adults,female,None,depression,intellectual disability
+0000480,4,-60.205887,-6.315965,-55.302685,-21.068972,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],10,children,female,None,anxiety,intellectual disability
+0000481,4,-63.321194,-5.5692897,-58.32492,-27.844435,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],8,children,male,None,anxiety,intellectual disability
+0000482,3,-26.29762,13.081736,-5.7668114,16.032042,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,male,Christianity,healthy,visual impairment
+0000483,2,27.642332,19.003681,22.96145,11.294298,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",26,young adults,male,Christianity,war,healthy
+0000484,1,29.09064,-13.656703,-1.2763667,-15.301405,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",80,elderly,female,Christianity,major accidents,healthy
+0000485,0,-10.47485,-40.641308,10.128629,-7.114182,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",34,young adults,female,None,healthy,hearing impairment
+0000486,2,29.91389,24.30582,16.860043,9.975742,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",26,young adults,male,Christianity,healthy,healthy
+0000487,1,15.673615,-32.177723,17.498209,-49.311466,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",77,elderly,male,None,anxiety,hearing impairment
+0000488,2,2.7038174,-8.505161,29.816084,4.827492,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",42,middle-aged,male,Christianity,sexual assault,healthy
+0000489,2,7.48363,7.721651,-8.693195,12.908481,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",20,young adults,female,Buddhism,healthy,healthy
+0000490,3,-26.117558,11.29926,-23.149158,18.964901,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,male,Christianity,healthy,visual impairment
+0000491,3,-20.453138,18.806314,-3.2114341,27.744905,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",18,adolescents,male,Islam,depression,intellectual disability
+0000492,1,40.858006,-11.7805195,25.336443,-20.63279,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Hate'],67,young elderly,male,Buddhism,depression,intellectual disability
+0000493,2,18.617367,32.390797,19.669119,22.901274,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",25,young adults,male,Islam,healthy,healthy
+0000494,2,4.8664103,-8.262467,33.289097,-0.4138032,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",49,middle-aged,male,Buddhism,sexual assault,visual impairment
+0000495,2,18.186699,4.6051755,15.895765,20.292582,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",22,young adults,female,Christianity,anxiety,visual impairment
+0000496,4,-66.27121,-16.807325,-56.19836,-41.76046,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",1,infants & toddlers,male,None,healthy,healthy
+0000497,1,28.590427,-12.608382,-0.37115613,-16.759403,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",60,young elderly,female,Christianity,healthy,intellectual disability
+0000498,1,42.929153,-6.6324134,24.770987,-11.809762,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",75,elderly,female,Islam,healthy,hearing impairment
+0000499,3,-19.63677,21.058973,-12.987636,31.165516,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",16,adolescents,male,Islam,anxiety,visual impairment
+0000500,2,3.5530593,-0.81564337,31.618877,14.842046,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",41,middle-aged,male,Islam,sexual assault,healthy
+0000501,4,-60.5316,-6.0366726,-54.878582,-21.372871,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],5,children,female,None,depression,intellectual disability
+0000502,4,-68.49108,-10.422854,-51.6581,-22.329742,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",12,children,male,None,major accidents,visual impairment
+0000503,4,-68.836914,4.407456,-37.876766,1.9359174,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,male,Buddhism,depression,healthy
+0000504,4,-67.83588,-12.225428,-56.69464,-39.866337,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",5,children,male,None,major accidents,hearing impairment
+0000505,4,-55.15727,2.1473892,-53.289696,0.88940585,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,female,Christianity,healthy,healthy
+0000506,0,-3.7239146,-33.846897,10.824293,-28.34554,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",50,middle-aged,male,None,anxiety,healthy
+0000507,0,-8.073137,-30.070667,13.055643,-13.347007,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",27,young adults,male,None,major accidents,healthy
+0000508,0,-10.934409,-40.27079,11.6426525,-6.709977,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",32,young adults,female,None,healthy,visual impairment
+0000509,4,-61.058002,-12.725611,-57.15759,-27.136728,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",6,children,female,None,major accidents,visual impairment
+0000510,3,-18.552618,-7.7293944,-25.234983,19.650862,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",15,adolescents,female,None,depression,healthy
+0000511,1,19.800926,-29.55742,13.283476,-29.701548,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",68,young elderly,female,None,healthy,healthy
+0000512,0,-0.44239908,-32.64351,19.558039,-16.37918,"['Harassment', 'Propaganda', 'Violence']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking']",36,middle-aged,male,None,war,intellectual disability
+0000513,3,-7.6505456,25.151943,-25.050314,44.34504,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,female,Islam,healthy,intellectual disability
+0000514,0,-5.513187,-40.552162,9.89828,-18.52394,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",32,young adults,male,None,healthy,hearing impairment
+0000515,4,-60.29216,5.0611625,-45.905952,22.711721,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],12,children,female,Islam,healthy,intellectual disability
+0000516,0,-5.0019164,-33.74268,22.144096,-29.008791,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",52,middle-aged,male,None,anxiety,hearing impairment
+0000517,3,1.3041096,27.958288,-20.100016,22.414192,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",30,young adults,female,Islam,healthy,healthy
+0000518,2,24.40313,38.122116,16.686865,-0.5345733,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",40,middle-aged,male,Islam,major accidents,healthy
+0000519,2,21.930338,8.524774,30.912346,8.221978,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",47,middle-aged,female,Christianity,war,healthy
+0000520,1,33.723255,-9.816556,22.162268,-37.798103,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",89,elderly,male,Christianity,healthy,hearing impairment
+0000521,0,-5.752885,-43.978012,17.141443,-22.39861,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",46,middle-aged,male,None,healthy,healthy
+0000522,2,43.255615,11.51725,31.825283,-3.0709481,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",43,middle-aged,male,Buddhism,war,intellectual disability
+0000523,3,-13.283045,3.0550382,-8.4855585,33.45378,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",16,adolescents,male,Islam,sexual assault,hearing impairment
+0000524,3,-30.40943,13.662189,-23.35091,21.460785,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,male,Buddhism,healthy,healthy
+0000525,3,-20.547377,11.107572,-22.183893,16.775082,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",14,adolescents,male,Christianity,natural disasters,intellectual disability
+0000526,2,39.9875,18.806383,29.358057,-4.2751236,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",45,middle-aged,male,Buddhism,healthy,healthy
+0000527,2,5.583318,32.82748,20.284075,31.682875,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",27,young adults,female,Islam,healthy,intellectual disability
+0000528,3,-26.973442,10.482877,-25.919682,19.805145,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,male,Christianity,healthy,hearing impairment
+0000529,0,-4.497147,-22.916265,6.9620814,5.6559434,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",23,young adults,female,None,anxiety,intellectual disability
+0000530,2,36.249752,10.893618,23.087433,10.214632,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",25,young adults,male,Buddhism,depression,healthy
+0000531,2,22.507404,3.960376,22.881296,7.341785,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",41,middle-aged,female,Christianity,anxiety,intellectual disability
+0000532,0,3.1702838,-28.722525,15.414176,-9.367498,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",46,middle-aged,female,None,healthy,intellectual disability
+0000533,3,-6.2339845,17.305283,-13.618024,32.606556,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,female,Christianity,healthy,hearing impairment
+0000534,0,4.0113497,-28.582468,16.056574,-14.829434,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",59,middle-aged,female,None,healthy,intellectual disability
+0000535,4,-64.707565,-16.198303,-63.167656,-37.575344,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",3,infants & toddlers,female,None,healthy,hearing impairment
+0000536,1,17.014296,-26.64548,16.710733,-34.206245,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",81,elderly,female,None,depression,healthy
+0000537,2,40.969166,15.262482,31.839766,-9.903041,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",47,middle-aged,male,Buddhism,healthy,visual impairment
+0000538,2,13.578014,1.2572086,24.116562,16.613655,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",32,young adults,female,Buddhism,anxiety,healthy
+0000539,2,40.289154,15.315418,30.077454,-6.276537,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",35,middle-aged,male,Buddhism,healthy,visual impairment
+0000540,0,-4.0125723,-41.51769,17.877121,-29.855816,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",48,middle-aged,male,None,healthy,hearing impairment
+0000541,3,-7.395551,30.267021,-6.747316,39.420147,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",17,adolescents,female,Islam,major accidents,visual impairment
+0000542,4,-69.846176,-7.617681,-65.2142,-25.061817,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",9,children,male,None,healthy,healthy
+0000543,2,23.240833,33.75648,19.742155,-0.8471658,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",50,middle-aged,male,Islam,healthy,visual impairment
+0000544,4,-71.5171,-12.288387,-54.424828,-31.390387,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",5,children,male,None,depression,healthy
+0000545,1,23.811583,-10.575898,25.232492,-23.529276,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",79,elderly,female,Buddhism,healthy,hearing impairment
+0000546,2,2.844547,-2.842986,26.538301,23.009052,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",36,middle-aged,female,Islam,sexual assault,intellectual disability
+0000547,0,-1.724384,-34.437283,16.622263,-18.991953,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",39,middle-aged,male,None,anxiety,intellectual disability
+0000548,2,18.354294,10.733406,26.60392,-1.2375932,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",56,middle-aged,female,Christianity,healthy,hearing impairment
+0000549,1,4.6562905,-14.235615,20.143229,-29.609386,"['Harassment', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Propaganda', 'Self-Harm']",65,young elderly,male,None,sexual assault,hearing impairment
+0000550,4,-56.250824,1.2496036,-44.169956,4.5868425,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,female,Christianity,depression,healthy
+0000551,3,-21.143158,5.621625,-21.284037,20.222908,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",13,adolescents,male,Buddhism,depression,healthy
+0000552,4,-64.05625,-7.277622,-63.600574,-33.898888,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],10,children,male,None,healthy,intellectual disability
+0000553,1,39.12274,-13.704659,25.893991,-38.26632,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",89,elderly,male,Buddhism,major accidents,hearing impairment
+0000554,0,-11.623881,-40.44194,5.703909,0.09144356,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",22,young adults,female,None,healthy,visual impairment
+0000555,2,7.2031784,34.317966,26.05233,19.359055,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",46,middle-aged,female,Islam,healthy,intellectual disability
+0000556,1,38.875935,-12.202512,21.409117,-29.224436,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Hate'],92,long-lived elderly,male,Buddhism,anxiety,intellectual disability
+0000557,1,25.035387,-12.434722,22.622993,-29.924845,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",85,elderly,female,Christianity,natural disasters,hearing impairment
+0000558,3,-30.50158,11.018826,-8.403836,20.82061,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,male,Christianity,healthy,healthy
+0000559,2,40.59251,16.43822,30.2305,-9.648236,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",49,middle-aged,male,Buddhism,healthy,hearing impairment
+0000560,3,-27.778532,14.971339,-13.240422,19.676142,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,male,Buddhism,healthy,intellectual disability
+0000561,2,18.2509,10.517725,26.553734,2.8124492,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",47,middle-aged,female,Christianity,healthy,hearing impairment
+0000562,2,10.10993,33.94856,28.306253,16.345577,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",57,middle-aged,female,Islam,healthy,healthy
+0000563,4,-58.223156,1.1127099,-45.947025,-5.8736057,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,female,Christianity,natural disasters,hearing impairment
+0000564,2,18.901339,40.981907,27.172224,12.416252,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",31,young adults,male,Islam,major accidents,visual impairment
+0000565,3,-29.289032,10.680075,-26.047865,23.369892,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,male,Christianity,healthy,healthy
+0000566,2,21.496733,38.958344,31.221586,5.522155,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",46,middle-aged,male,Islam,depression,hearing impairment
+0000567,3,-18.937855,-7.0616345,-30.0579,18.270628,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",15,adolescents,female,None,anxiety,healthy
+0000568,3,-28.183311,-0.3902272,-19.99332,4.008976,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,male,None,healthy,healthy
+0000569,4,-64.833206,-5.0979524,-62.788002,-19.267864,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],11,children,male,None,healthy,intellectual disability
+0000570,1,7.8411126,-7.476597,28.39337,-3.799219,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",65,young elderly,female,Buddhism,sexual assault,hearing impairment
+0000571,3,-27.089464,11.05058,-25.627026,19.572605,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,male,Christianity,healthy,hearing impairment
+0000572,2,1.1344976,-4.955206,18.570477,24.823374,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",21,young adults,female,Christianity,sexual assault,hearing impairment
+0000573,3,18.504608,21.174547,-12.457431,-0.5561997,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",20,young adults,male,Christianity,healthy,hearing impairment
+0000574,4,-66.82368,-9.242246,-60.01016,-31.830694,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",8,children,male,None,healthy,visual impairment
+0000575,3,-18.687733,-1.3164893,-41.461296,18.661337,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,female,None,healthy,healthy
+0000576,1,18.500443,-28.786448,15.576511,-33.851765,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",67,young elderly,female,None,healthy,visual impairment
+0000577,3,-24.769468,8.357827,-28.031193,20.628908,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",13,adolescents,male,Christianity,anxiety,healthy
+0000578,2,26.50576,17.878841,19.64483,10.883616,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",24,young adults,male,Christianity,war,intellectual disability
+0000579,3,-21.798677,13.48357,-3.1608694,16.45609,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",18,adolescents,male,Christianity,war,hearing impairment
+0000580,0,-5.371946,-45.148663,16.924574,-23.542297,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",48,middle-aged,male,None,healthy,healthy
+0000581,1,39.54067,-0.4292904,22.410149,-8.973637,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Hate'],62,young elderly,male,Islam,anxiety,intellectual disability
+0000582,2,23.090755,33.535313,18.94849,-1.0323889,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",50,middle-aged,male,Islam,healthy,visual impairment
+0000583,2,21.925392,34.288517,31.26426,3.8853185,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",47,middle-aged,male,Islam,healthy,visual impairment
+0000584,3,-26.219194,12.924859,-8.130076,15.532638,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,male,Christianity,healthy,visual impairment
+0000585,2,8.616489,38.58825,31.269602,10.557304,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",57,middle-aged,female,Islam,natural disasters,healthy
+0000586,4,-54.14018,-1.6815722,-45.54906,6.39264,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,female,Buddhism,healthy,visual impairment
+0000587,1,29.326336,-10.627655,22.230185,-22.497374,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",76,elderly,female,Christianity,healthy,hearing impairment
+0000588,2,39.895576,18.463285,29.889935,-4.8168073,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",49,middle-aged,male,Buddhism,healthy,healthy
+0000589,0,-3.218142,-21.953432,12.952204,-1.5172769,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",31,young adults,female,None,natural disasters,intellectual disability
+0000590,2,22.752516,5.824503,29.237392,-0.79714376,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",52,middle-aged,female,Christianity,major accidents,visual impairment
+0000591,1,29.060337,-7.707592,22.758175,-8.270977,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",63,young elderly,female,Christianity,healthy,healthy
+0000592,0,-9.138365,-29.780407,10.053407,-11.137772,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",24,young adults,male,None,natural disasters,healthy
+0000593,1,15.520479,-27.63448,17.474577,-32.574467,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",68,young elderly,female,None,anxiety,visual impairment
+0000594,1,5.587726,-13.875031,15.744641,-32.530796,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",78,elderly,male,None,sexual assault,intellectual disability
+0000595,2,38.95004,15.696933,23.595127,-0.59982884,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",33,young adults,male,Buddhism,healthy,visual impairment
+0000596,2,27.195896,21.697151,17.066494,7.6230974,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",27,young adults,male,Christianity,healthy,intellectual disability
+0000597,2,23.46549,19.52234,19.265617,13.116213,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",23,young adults,male,Christianity,depression,healthy
+0000598,4,-64.22108,5.654696,-45.61961,10.226128,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,male,Islam,anxiety,healthy
+0000599,1,35.062374,-6.089295,23.40675,-19.891172,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",64,young elderly,male,Christianity,healthy,healthy
+0000600,3,-26.075071,-5.145141,-36.694168,2.0526202,"['Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm']",13,adolescents,male,None,natural disasters,healthy
+0000601,0,-4.1564994,-40.501186,19.310184,-27.924814,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",42,middle-aged,male,None,healthy,visual impairment
+0000602,4,-70.45708,-9.722005,-59.83706,-24.961489,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",9,children,male,None,anxiety,healthy
+0000603,0,0.4449234,-22.883589,16.886318,-2.1910815,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",34,young adults,female,None,war,visual impairment
+0000604,3,-9.056091,16.331734,-30.15399,34.24291,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,female,Christianity,healthy,healthy
+0000605,3,-8.652282,12.313816,-11.469749,31.38068,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,female,Buddhism,healthy,intellectual disability
+0000606,4,-66.69864,-10.994442,-64.096596,-38.138653,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",6,children,male,None,healthy,hearing impairment
+0000607,2,18.034397,3.4701068,19.55178,19.273937,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",24,young adults,female,Christianity,depression,hearing impairment
+0000608,2,15.538646,11.411915,24.5446,10.726339,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",35,middle-aged,female,Christianity,healthy,healthy
+0000609,3,-22.77295,7.9112043,-16.901834,20.42317,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",15,adolescents,male,Christianity,depression,visual impairment
+0000610,3,-12.452748,-2.049407,-8.679281,5.007487,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",18,adolescents,male,None,sexual assault,hearing impairment
+0000611,2,40.507065,9.96642,31.348663,-8.6396055,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",36,middle-aged,male,Buddhism,natural disasters,hearing impairment
+0000612,2,43.402176,11.316864,32.202663,-8.712525,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",59,middle-aged,male,Buddhism,war,intellectual disability
+0000613,4,-69.341095,2.397858,-46.467964,-4.7809305,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,male,Buddhism,healthy,visual impairment
+0000614,2,32.91227,20.619656,28.042591,-10.678842,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",51,middle-aged,male,Christianity,healthy,hearing impairment
+0000615,3,-21.363964,10.430602,-25.902277,15.32053,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",13,adolescents,male,Christianity,major accidents,intellectual disability
+0000616,0,-11.665981,-43.911953,4.1197076,4.6558537,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",23,young adults,female,None,healthy,healthy
+0000617,0,4.7495484,-25.270449,6.3474097,-17.294186,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",50,middle-aged,female,None,major accidents,intellectual disability
+0000618,4,-57.123104,-10.670013,-48.793377,-2.2460403,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",11,children,female,None,depression,healthy
+0000619,4,-69.56557,-6.083969,-59.159565,-16.166693,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",12,children,male,None,healthy,healthy
+0000620,4,-63.541447,-0.5625714,-56.132664,-10.965576,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],8,children,male,Christianity,healthy,intellectual disability
+0000621,3,-20.413692,8.7045555,-7.500623,17.38777,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",19,adolescents,male,Christianity,anxiety,intellectual disability
+0000622,3,-29.40164,11.210048,-21.126995,24.044437,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,male,Christianity,healthy,healthy
+0000623,0,2.4882684,-15.637477,13.132062,-20.804634,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",50,middle-aged,male,None,sexual assault,visual impairment
+0000624,2,17.109568,39.87956,24.014565,18.374063,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",26,young adults,male,Islam,natural disasters,healthy
+0000625,0,-8.364446,-46.2765,2.1738074,-5.5452037,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",21,young adults,male,None,healthy,healthy
+0000626,3,-12.627071,-1.7780306,-21.690554,7.9081454,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",15,adolescents,male,None,sexual assault,hearing impairment
+0000627,3,-8.13196,27.218182,-19.019758,46.432384,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",14,adolescents,female,Islam,anxiety,healthy
+0000628,3,-11.026763,14.138205,-22.8443,33.86952,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,Buddhism,healthy,healthy
+0000629,2,3.803855,26.088415,-7.432014,11.916465,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",20,young adults,male,Islam,healthy,hearing impairment
+0000630,4,-65.09672,6.3680267,-48.384132,-1.0542666,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,male,Islam,healthy,hearing impairment
+0000631,3,-19.276152,-1.6133035,-36.15719,20.445946,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,None,healthy,healthy
+0000632,4,-53.38756,-0.044086616,-48.617638,10.540586,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,female,Buddhism,healthy,healthy
+0000633,3,-8.480845,17.32112,-15.194595,35.616364,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,female,Christianity,healthy,healthy
+0000634,1,15.659195,-35.90678,18.482256,-39.09433,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",64,young elderly,male,None,major accidents,healthy
+0000635,1,24.242662,-8.331482,22.602062,-11.364304,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",66,young elderly,female,Buddhism,healthy,intellectual disability
+0000636,2,23.154549,35.335876,30.632446,-0.98958206,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",56,middle-aged,male,Islam,healthy,hearing impairment
+0000637,4,-61.468094,-11.317816,-61.335102,-27.497147,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",5,children,female,None,healthy,visual impairment
+0000638,2,18.956024,-3.5468063,20.570057,-5.0897374,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",50,middle-aged,female,Buddhism,major accidents,hearing impairment
+0000639,4,-65.749016,2.2817643,-53.548183,-1.9901689,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,male,Christianity,healthy,healthy
+0000640,3,-24.064436,-3.3543875,-18.039467,1.2872626,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",18,adolescents,male,None,anxiety,intellectual disability
+0000641,3,-12.805038,-4.9844728,-7.4392467,20.389673,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",18,adolescents,female,None,sexual assault,healthy
+0000642,0,-5.2345095,-33.698193,21.750662,-25.993849,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",43,middle-aged,male,None,anxiety,hearing impairment
+0000643,1,26.858458,-8.566199,20.07196,-8.573761,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",62,young elderly,female,Christianity,healthy,intellectual disability
+0000644,3,-4.0156484,13.93506,-19.04602,31.064865,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",15,adolescents,female,Christianity,anxiety,visual impairment
+0000645,2,42.503235,-5.0836487,29.47864,5.518143,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",65,young elderly,female,Islam,war,healthy
+0000646,0,-3.6515481,-24.926607,15.177541,4.068976,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",27,young adults,female,None,depression,healthy
+0000647,3,7.353402,7.7634645,-20.158432,8.001248,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",30,young adults,female,Buddhism,healthy,healthy
+0000648,1,5.313292,-10.978665,26.643803,-12.792448,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",63,young elderly,male,Christianity,sexual assault,visual impairment
+0000649,2,21.685156,40.870796,31.807217,-4.816839,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",56,middle-aged,male,Islam,natural disasters,hearing impairment
+0000650,2,13.656179,1.460193,23.420464,18.38924,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",28,young adults,female,Buddhism,anxiety,healthy
+0000651,4,-14.800249,-24.73851,-25.40156,-7.6319375,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",30,young adults,female,None,depression,intellectual disability
+0000652,4,-63.973293,6.732286,-45.76071,6.347568,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],9,children,male,Islam,depression,healthy
+0000653,2,32.241108,17.488037,26.015982,-6.17208,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",52,middle-aged,male,Christianity,healthy,intellectual disability
+0000654,1,40.07908,-15.069911,27.967144,-23.364641,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",61,young elderly,male,Buddhism,healthy,visual impairment
+0000655,4,-57.26535,-10.703171,-44.86335,-4.2824297,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",12,children,female,None,depression,hearing impairment
+0000656,2,13.814574,1.8437963,18.182192,23.208683,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",21,young adults,female,Buddhism,anxiety,healthy
+0000657,4,-54.350105,-0.62913865,-42.669807,9.905627,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,female,Buddhism,natural disasters,healthy
+0000658,0,1.2863846,-26.011614,20.194906,-13.035721,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",43,middle-aged,female,None,major accidents,healthy
+0000659,0,-2.3274727,-25.533615,14.39435,-3.8413284,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",29,young adults,female,None,anxiety,visual impairment
+0000660,0,-1.0024297,-31.278912,22.272871,-17.418064,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",38,middle-aged,male,None,war,healthy
+0000661,2,14.482865,0.71027,24.490967,20.153399,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",27,young adults,female,Buddhism,depression,healthy
+0000662,0,-6.6964607,-32.772495,15.281119,-16.69811,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",32,young adults,male,None,anxiety,hearing impairment
+0000663,4,-58.832253,4.421256,-47.575382,13.259663,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],9,children,female,Islam,healthy,visual impairment
+0000664,3,-10.2606125,9.149181,-21.114445,24.846537,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",13,adolescents,female,Buddhism,major accidents,hearing impairment
+0000665,3,-25.750475,-6.9189095,-12.1241455,-4.706808,"['Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm']",19,adolescents,male,None,natural disasters,hearing impairment
+0000666,1,40.895676,-0.3709049,30.478523,-6.416336,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",65,young elderly,male,Islam,depression,healthy
+0000667,1,43.45044,-6.087385,26.057816,-9.273956,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",87,elderly,female,Islam,war,healthy
+0000668,3,-26.998077,9.8586645,-30.159567,18.968403,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,male,Christianity,healthy,hearing impairment
+0000669,3,-1.8743691,14.657617,-2.8261938,23.586693,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",19,adolescents,female,Christianity,natural disasters,hearing impairment
+0000670,2,3.0879745,-4.82184,25.371073,12.878868,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",42,middle-aged,female,Christianity,sexual assault,intellectual disability
+0000671,3,-15.346483,-7.0560346,-10.191379,6.7681413,"['Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm']",19,adolescents,female,None,major accidents,visual impairment
+0000672,3,-5.5218587,17.602306,-7.1173167,27.705486,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,female,Christianity,healthy,visual impairment
+0000673,3,-23.291912,10.619922,-12.432815,20.952198,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",17,adolescents,male,Christianity,major accidents,healthy
+0000674,4,-67.39319,-9.005956,-62.05161,-29.300404,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",9,children,male,None,healthy,visual impairment
+0000675,4,-58.285732,-2.2446797,-48.373173,7.791016,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],11,children,female,Christianity,anxiety,intellectual disability
+0000676,1,15.687728,-27.570683,16.594973,-33.886387,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",71,young elderly,female,None,anxiety,visual impairment
+0000677,2,33.22787,23.21106,26.048655,-5.8918147,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",53,middle-aged,male,Christianity,healthy,healthy
+0000678,3,-3.1956122,15.308597,-20.215954,31.546223,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",15,adolescents,female,Christianity,natural disasters,healthy
+0000679,4,-57.269478,-8.682216,-57.145332,-3.5198724,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",12,children,female,None,healthy,healthy
+0000680,1,28.222618,-9.06506,24.080524,-11.387117,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",61,young elderly,female,Christianity,healthy,visual impairment
+0000681,1,17.271357,-33.903687,15.010108,-46.973938,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",71,young elderly,male,None,healthy,hearing impairment
+0000682,3,-6.711354,28.986923,-10.108447,44.574524,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",16,adolescents,female,Islam,depression,visual impairment
+0000683,3,-20.227169,-1.930525,-17.859873,15.95617,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,female,None,healthy,healthy
+0000684,0,3.3231976,-28.296648,15.950945,-9.947899,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",47,middle-aged,female,None,healthy,intellectual disability
+0000685,3,-17.846684,-7.9738965,-16.559603,15.840054,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",17,adolescents,female,None,depression,hearing impairment
+0000686,1,16.606539,-26.570755,18.919004,-38.051937,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",79,elderly,female,None,depression,hearing impairment
+0000687,4,-59.69928,-5.219461,-55.15749,-7.380292,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],11,children,female,None,anxiety,intellectual disability
+0000688,3,-29.40176,11.210353,-21.126995,24.044437,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,male,Christianity,healthy,healthy
+0000689,2,36.519676,13.238127,21.632944,2.825235,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",33,young adults,male,Buddhism,anxiety,intellectual disability
+0000690,0,-2.5237134,-24.78334,16.15362,-1.3631727,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",29,young adults,female,None,depression,hearing impairment
+0000691,1,40.254566,-1.6871036,25.836895,-17.636583,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",74,young elderly,male,Islam,anxiety,hearing impairment
+0000692,1,19.47862,-23.644083,-11.76592,-40.914684,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",70,young elderly,female,None,major accidents,visual impairment
+0000693,2,22.432396,5.813383,28.465902,0.24060886,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",48,middle-aged,female,Christianity,major accidents,hearing impairment
+0000694,1,38.753956,-2.4666166,27.466154,-12.797099,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",65,young elderly,male,Islam,healthy,hearing impairment
+0000695,4,-66.06858,0.7450586,-52.145515,-10.177992,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],9,children,male,Christianity,major accidents,healthy
+0000696,4,-57.293976,-3.687495,-46.166653,4.255702,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],9,children,female,Buddhism,depression,intellectual disability
+0000697,3,-16.294321,8.730014,0.7362438,11.20944,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",19,adolescents,male,Buddhism,natural disasters,visual impairment
+0000698,2,2.2072127,-7.9208875,22.332626,15.609461,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",25,young adults,male,Christianity,sexual assault,healthy
+0000699,1,14.528581,-27.570793,18.466675,-23.960632,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",61,young elderly,female,None,anxiety,healthy
+0000700,1,28.494846,-10.008659,22.320932,-17.257484,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",71,young elderly,female,Christianity,healthy,hearing impairment
+0000701,0,-2.5380933,-22.786522,11.155077,0.6429882,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",25,young adults,female,None,natural disasters,healthy
+0000702,1,44.28669,-3.6763175,23.281443,-0.425609,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",61,young elderly,female,Islam,natural disasters,intellectual disability
+0000703,2,16.021942,11.853241,25.09369,6.2289796,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",52,middle-aged,female,Christianity,healthy,healthy
+0000704,3,-9.591277,9.494425,-17.519175,26.233015,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",14,adolescents,female,Buddhism,major accidents,intellectual disability
+0000705,1,26.794086,-8.482533,20.289745,-8.135215,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",61,young elderly,female,Christianity,healthy,intellectual disability
+0000706,2,16.86955,9.077044,19.993446,16.419832,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",28,young adults,female,Christianity,healthy,hearing impairment
+0000707,2,1.9213599,33.057167,16.320818,30.76629,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",21,young adults,female,Islam,natural disasters,intellectual disability
+0000708,2,29.029848,18.242687,31.319368,-1.3499923,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",41,middle-aged,male,Christianity,war,healthy
+0000709,2,7.043611,31.653902,22.394932,28.126848,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",29,young adults,female,Islam,healthy,hearing impairment
+0000710,1,34.02425,-6.3849325,23.81508,-20.958202,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",67,young elderly,male,Christianity,healthy,healthy
+0000711,3,-21.12818,5.6357927,-20.7174,20.49458,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",13,adolescents,male,Buddhism,depression,healthy
+0000712,1,13.394005,-25.82327,15.62217,-22.538757,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']","['Hate', 'Sexuality']",63,young elderly,female,None,depression,intellectual disability
+0000713,2,38.135117,11.464864,32.152668,0.9442547,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",35,middle-aged,male,Buddhism,depression,healthy
+0000714,3,-26.973442,10.482877,-25.919682,19.805145,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,male,Christianity,healthy,hearing impairment
+0000715,2,26.953611,18.582085,19.255674,9.8373375,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",21,young adults,male,Christianity,war,hearing impairment
+0000716,0,-7.352815,-32.876347,15.357442,-17.126831,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",32,young adults,male,None,anxiety,visual impairment
+0000717,1,33.7747,-7.686491,23.412195,-27.056068,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",77,elderly,male,Christianity,healthy,healthy
+0000718,0,-9.287079,-30.662062,12.64471,-16.664488,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",26,young adults,male,None,natural disasters,visual impairment
+0000719,4,-70.28227,1.6370465,-41.978046,-6.7491736,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,male,Buddhism,natural disasters,hearing impairment
+0000720,2,33.287212,23.444725,26.2252,-4.943463,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",52,middle-aged,male,Christianity,healthy,healthy
+0000721,3,-15.56598,-6.35658,-12.840313,9.6403675,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",19,adolescents,female,None,major accidents,intellectual disability
+0000722,2,15.495847,11.6103735,24.115618,10.172405,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",37,middle-aged,female,Christianity,healthy,healthy
+0000723,0,2.3986096,-24.331202,21.476812,-7.561571,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",46,middle-aged,female,None,war,healthy
+0000724,4,-68.40491,-16.7761,-41.248,-32.137745,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",0,infants & toddlers,male,None,healthy,healthy
+0000725,2,21.49758,3.931238,27.216366,3.4747894,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",46,middle-aged,female,Christianity,anxiety,hearing impairment
+0000726,2,4.058892,-1.1931609,28.130934,10.999196,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",49,middle-aged,male,Islam,sexual assault,intellectual disability
+0000727,4,-15.816719,-24.652775,-28.5375,-9.801584,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",30,young adults,female,None,anxiety,healthy
+0000728,0,1.4555305,-15.215084,18.342875,-8.64376,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",34,young adults,male,None,sexual assault,visual impairment
+0000729,4,-67.48479,-7.382137,-60.62584,-22.291006,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",11,children,male,None,healthy,hearing impairment
+0000730,4,-56.754364,2.0630462,-52.435448,-0.10150551,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],9,children,female,Christianity,healthy,visual impairment
+0000731,2,39.591343,9.2266445,24.88733,-0.38750184,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",27,young adults,male,Buddhism,natural disasters,hearing impairment
+0000732,2,29.678686,24.73039,12.406021,12.528479,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",21,young adults,male,Christianity,healthy,healthy
+0000733,1,15.633869,-27.990475,18.133503,-32.596645,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",68,young elderly,female,None,anxiety,hearing impairment
+0000734,2,11.65992,2.9674385,15.100796,22.059635,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",21,young adults,female,Buddhism,healthy,intellectual disability
+0000735,1,45.532944,-4.9195757,0.016782254,-8.209961,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",70,young elderly,female,Islam,major accidents,healthy
+0000736,3,-6.214368,27.717585,-7.0160713,47.069458,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",17,adolescents,female,Islam,depression,healthy
+0000737,2,21.555359,34.474773,30.461615,5.8945518,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",41,middle-aged,male,Islam,healthy,visual impairment
+0000738,2,27.983902,18.879408,25.755741,6.7500186,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",33,young adults,male,Christianity,war,healthy
+0000739,1,22.735558,-10.247001,20.170328,-22.5129,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Hate'],89,elderly,female,Buddhism,anxiety,intellectual disability
+0000740,4,-61.658802,-13.485114,-55.482063,-24.140438,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",10,children,female,None,major accidents,healthy
+0000741,0,-1.973599,-37.276085,8.122512,-9.784496,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",28,young adults,male,None,healthy,intellectual disability
+0000742,1,27.515577,-12.95258,8.587523,-12.787961,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",60,young elderly,female,Christianity,depression,healthy
+0000743,2,20.844048,3.3957543,27.730537,5.982862,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",42,middle-aged,female,Christianity,depression,hearing impairment
+0000744,0,-0.84397626,-36.568672,14.859008,-17.685753,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",36,middle-aged,male,None,healthy,intellectual disability
+0000745,1,12.1168785,-31.439219,20.915934,-40.028065,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",69,young elderly,male,None,depression,visual impairment
+0000746,4,-57.203762,-2.9275453,-47.28924,8.169169,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],11,children,female,Buddhism,anxiety,intellectual disability
+0000747,1,16.503164,-27.4706,16.169222,-39.27895,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",77,elderly,female,None,anxiety,visual impairment
+0000748,2,1.5001223,33.76668,22.122097,25.557936,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",24,young adults,female,Islam,natural disasters,hearing impairment
+0000749,2,34.351437,23.091074,15.724287,-8.905899,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",50,middle-aged,male,Christianity,healthy,healthy
+0000750,4,-69.23532,-6.476461,-63.147194,-18.118284,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",11,children,male,None,healthy,healthy
+0000751,1,26.942137,-12.2426815,23.816507,-16.588852,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",74,young elderly,female,Christianity,depression,visual impairment
+0000752,0,-8.825052,-43.04229,16.312027,-14.69184,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",54,middle-aged,female,None,healthy,healthy
+0000753,1,37.47173,-15.460136,2.1670465,-29.950314,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",70,young elderly,male,Buddhism,anxiety,visual impairment
+0000754,3,-23.608265,-3.9352918,-26.093485,5.9643908,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",15,adolescents,male,None,depression,intellectual disability
+0000755,3,-22.24347,19.267874,-7.296309,29.7009,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,male,Islam,healthy,intellectual disability
+0000756,1,19.61609,-26.117043,17.973948,-36.06181,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",68,young elderly,female,None,natural disasters,visual impairment
+0000757,2,2.7976263,-8.643902,30.519348,-0.5514593,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",56,middle-aged,male,Christianity,sexual assault,healthy
+0000758,2,33.921352,19.588053,16.049969,-14.389129,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",50,middle-aged,male,Christianity,healthy,visual impairment
+0000759,4,-64.621574,-5.8764076,-65.15275,-25.882421,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],9,children,male,None,healthy,intellectual disability
+0000760,2,11.559002,4.3867607,18.266,18.576231,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",23,young adults,female,Buddhism,healthy,hearing impairment
+0000761,0,-0.5053111,-22.45136,9.397179,4.4417653,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",21,young adults,female,None,war,hearing impairment
+0000762,0,1.3531688,-23.909697,22.581306,-13.028741,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",47,middle-aged,female,None,war,visual impairment
+0000763,3,-7.03553,10.608354,-19.527254,29.47362,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",14,adolescents,female,Buddhism,anxiety,intellectual disability
+0000764,2,8.481743,31.362082,17.663269,36.42468,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",23,young adults,female,Islam,healthy,healthy
+0000765,2,22.033825,38.049797,30.220472,-1.4673715,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",58,middle-aged,male,Islam,anxiety,hearing impairment
+0000766,4,-71.63686,-9.116802,-60.396423,-28.247087,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",9,children,male,None,natural disasters,healthy
+0000767,4,-57.29515,-3.7321095,-45.533073,3.8870163,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],9,children,female,Buddhism,depression,intellectual disability
+0000768,3,-6.794744,8.385398,-8.397006,30.277103,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",16,adolescents,female,Buddhism,depression,visual impairment
+0000769,2,21.624846,37.58684,31.819715,4.146757,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",47,middle-aged,male,Islam,anxiety,visual impairment
+0000770,2,16.924255,4.0558724,23.122276,18.865694,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",32,young adults,female,Christianity,depression,healthy
+0000771,4,-70.14359,2.509989,-47.006638,-4.367504,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,male,Buddhism,healthy,hearing impairment
+0000772,4,-66.491714,2.6074452,-48.969822,-1.6271508,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,male,Christianity,anxiety,healthy
+0000773,4,-62.63663,-11.191087,-64.21685,-24.242414,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",5,children,female,None,healthy,healthy
+0000774,3,-10.43693,1.203573,1.6854217,18.331812,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",18,adolescents,male,Buddhism,sexual assault,hearing impairment
+0000775,2,1.8789253,34.56335,23.408669,27.547375,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",26,young adults,female,Islam,major accidents,visual impairment
+0000776,0,-9.177069,-39.704845,18.508463,-20.040062,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",52,middle-aged,female,None,healthy,visual impairment
+0000777,0,-6.168628,-44.101635,16.247665,-21.912603,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",44,middle-aged,male,None,healthy,healthy
+0000778,2,28.839973,14.676104,30.652975,-8.7406645,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",53,middle-aged,male,Christianity,major accidents,healthy
+0000779,2,40.278553,18.758566,29.30384,-4.8343487,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",52,middle-aged,male,Buddhism,healthy,healthy
+0000780,2,26.594997,15.577505,22.802856,-0.54534394,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",33,young adults,male,Christianity,major accidents,hearing impairment
+0000781,2,20.46849,38.211536,33.34852,8.303726,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",51,middle-aged,male,Islam,depression,healthy
+0000782,2,32.29859,17.465443,26.018274,-9.596128,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",59,middle-aged,male,Christianity,healthy,intellectual disability
+0000783,3,-7.075268,15.40563,-14.470737,33.65304,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,female,Christianity,healthy,intellectual disability
+0000784,2,14.547349,0.83832556,22.60737,21.90884,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",25,young adults,female,Buddhism,depression,healthy
+0000785,4,-69.635796,2.8367121,-46.467964,-4.7809305,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,male,Buddhism,healthy,visual impairment
+0000786,2,18.639767,37.395332,25.399956,20.024096,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",31,young adults,male,Islam,anxiety,healthy
+0000787,1,44.07778,-3.3046248,21.516838,-1.2785269,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Hate'],67,young elderly,female,Islam,anxiety,intellectual disability
+0000788,3,-27.729568,-0.3445891,-19.18433,3.869139,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,male,None,healthy,healthy
+0000789,2,0.79153454,29.421736,-4.347177,23.713472,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",20,young adults,female,Islam,war,hearing impairment
+0000790,3,-18.973415,-7.866015,-30.768766,18.793535,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",13,adolescents,female,None,depression,healthy
+0000791,4,-64.85347,5.5736294,-48.60503,6.327086,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,male,Islam,healthy,visual impairment
+0000792,4,-56.191513,-3.3202305,-50.331516,1.7499363,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],8,children,female,Buddhism,healthy,intellectual disability
+0000793,0,-4.6521325,-41.301495,17.330418,-27.5431,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",41,middle-aged,male,None,healthy,hearing impairment
+0000794,3,-23.828535,8.710414,-22.758661,18.843294,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",14,adolescents,male,Christianity,anxiety,hearing impairment
+0000795,1,37.21318,-16.259193,-1.3306785,-18.911217,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",90,long-lived elderly,male,Buddhism,depression,visual impairment
+0000796,3,-19.616858,-4.4047856,-18.498573,11.077063,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,female,None,healthy,hearing impairment
+0000797,0,-3.0444388,-31.4014,20.630695,-26.272629,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",35,middle-aged,male,None,major accidents,hearing impairment
+0000798,3,-10.076944,14.08629,-7.001437,30.102764,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,female,Buddhism,healthy,healthy
+0000799,1,40.52283,-11.757949,29.474688,-17.400948,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",64,young elderly,male,Buddhism,depression,healthy
+0000800,3,-23.893993,-6.890605,-11.62518,0.14415458,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",18,adolescents,male,None,depression,hearing impairment
+0000801,2,14.125405,8.954335,13.008402,23.983715,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",22,young adults,female,Christianity,healthy,healthy
+0000802,4,-67.29493,-7.96827,-58.85606,-22.729197,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",11,children,male,None,healthy,visual impairment
+0000803,1,36.81913,-7.758354,29.388582,-18.050835,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",65,young elderly,male,Christianity,war,healthy
+0000804,2,17.08271,-2.6163015,30.632624,-1.3353893,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",59,middle-aged,female,Buddhism,depression,hearing impairment
+0000805,0,-9.256279,-39.68543,19.083094,-17.87211,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",47,middle-aged,female,None,healthy,visual impairment
+0000806,3,-24.29507,-5.4453754,-28.503044,7.9218273,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",14,adolescents,male,None,depression,healthy
+0000807,2,10.9155035,6.867345,21.504578,17.02949,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",31,young adults,female,Buddhism,healthy,healthy
+0000808,3,-19.038174,-7.813184,-31.09722,18.548895,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",13,adolescents,female,None,depression,healthy
+0000809,4,-54.83904,2.9003882,-52.556877,-4.554157,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],10,children,female,Christianity,healthy,healthy
+0000810,2,21.297514,7.513973,29.007772,1.5543162,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",52,middle-aged,female,Christianity,natural disasters,healthy
+0000811,2,12.575556,1.0034609,20.279215,14.506449,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",32,young adults,female,Buddhism,anxiety,intellectual disability
+0000812,3,-10.027284,12.055527,-10.05552,29.076931,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,female,Buddhism,healthy,visual impairment
+0000813,1,15.113488,-24.672436,10.627176,-29.865582,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",74,young elderly,female,None,healthy,intellectual disability
+0000814,2,13.815063,-1.7371876,26.606539,7.829451,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",34,young adults,female,Buddhism,natural disasters,visual impairment
+0000815,0,-4.686749,-32.652645,24.399479,-25.27309,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",49,middle-aged,male,None,depression,visual impairment
+0000816,2,33.51062,22.58871,27.034626,-8.378197,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",58,middle-aged,male,Christianity,healthy,healthy
+0000817,1,21.853031,-9.082121,23.441624,-9.028609,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Hate'],64,young elderly,female,Buddhism,depression,intellectual disability
+0000818,3,-24.005741,21.079077,-18.345615,37.3158,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,male,Islam,healthy,healthy
+0000819,2,4.7072453,35.09251,21.777899,34.78331,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",25,young adults,female,Islam,anxiety,healthy
+0000820,2,6.2806344,31.425566,18.059546,32.877457,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",22,young adults,female,Islam,healthy,visual impairment
+0000821,4,-56.360176,0.0665382,-43.420147,6.4844985,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,female,Christianity,natural disasters,visual impairment
+0000822,2,3.9465013,33.910645,17.72732,31.053701,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",26,young adults,female,Islam,anxiety,intellectual disability
+0000823,2,11.763987,2.6765141,20.770258,15.406473,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",33,young adults,female,Buddhism,healthy,intellectual disability
+0000824,1,34.714848,-8.32305,24.216024,-27.879465,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",68,young elderly,male,Christianity,healthy,hearing impairment
+0000825,2,16.15925,-2.030519,32.311016,6.423418,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",52,middle-aged,female,Buddhism,depression,healthy
+0000826,2,6.4639406,38.407253,20.215097,15.16331,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",50,middle-aged,female,Islam,anxiety,healthy
+0000827,3,-8.210622,17.739338,-10.033094,31.657965,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,female,Christianity,healthy,healthy
+0000828,0,-1.2609885,-31.877342,23.455542,-22.892527,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",42,middle-aged,male,None,war,visual impairment
+0000829,1,39.882668,-0.21505056,23.779501,-12.513189,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Hate'],71,young elderly,male,Islam,depression,intellectual disability
+0000830,2,33.11896,20.603271,27.702991,-13.991657,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",58,middle-aged,male,Christianity,healthy,hearing impairment
+0000831,2,36.276432,11.95931,20.237488,10.294382,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",23,young adults,male,Buddhism,anxiety,healthy
+0000832,0,-0.0072322222,-33.91347,18.73192,-21.957968,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",43,middle-aged,male,None,natural disasters,intellectual disability
+0000833,4,-54.971832,2.1513882,-55.53094,2.4382167,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],9,children,female,Christianity,healthy,healthy
+0000834,1,26.409428,-11.113216,24.263355,-14.840845,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",64,young elderly,female,Christianity,major accidents,hearing impairment
+0000835,2,11.054343,8.500112,28.233484,5.5182924,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",54,middle-aged,female,Buddhism,healthy,healthy
+0000836,4,-63.483486,-5.408249,-61.529377,-25.316875,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],9,children,male,None,anxiety,intellectual disability
+0000837,3,-27.798973,-3.400413,-30.94828,2.550313,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,male,None,healthy,hearing impairment
+0000838,2,29.053082,22.03819,18.628954,6.2894998,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",26,young adults,male,Christianity,healthy,hearing impairment
+0000839,3,-2.7975667,11.944665,-0.9405905,31.833534,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",19,adolescents,female,Christianity,depression,healthy
+0000840,1,43.54748,-6.0262747,26.551878,-9.116039,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",81,elderly,female,Islam,war,visual impairment
+0000841,2,9.99024,32.68142,26.730595,23.379799,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",36,middle-aged,female,Islam,healthy,healthy
+0000842,0,0.5967388,-25.494146,20.473358,-17.15797,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",42,middle-aged,female,None,major accidents,visual impairment
+0000843,0,-1.358143,-26.174633,21.923294,-10.663366,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",37,middle-aged,female,None,depression,hearing impairment
+0000844,2,16.389473,4.0671115,18.309975,24.813711,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",23,young adults,female,Christianity,depression,healthy
+0000845,1,11.737127,-31.628355,21.940882,-33.29012,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",63,young elderly,male,None,depression,healthy
+0000846,1,12.62782,-34.14906,13.711631,-35.011562,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",63,young elderly,male,None,healthy,intellectual disability
+0000847,4,-65.85718,-16.607813,-64.726845,-43.23191,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",3,infants & toddlers,male,None,healthy,healthy
+0000848,2,17.641338,40.60731,25.856997,12.279976,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",29,young adults,male,Islam,natural disasters,visual impairment
+0000849,4,-59.645527,-12.697666,-56.21493,-19.32018,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",9,children,female,None,natural disasters,hearing impairment
+0000850,2,30.34715,13.223248,30.355062,-1.3032737,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",46,middle-aged,male,Christianity,depression,healthy
+0000851,1,16.202873,-37.02077,17.408459,-43.85376,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",71,young elderly,male,None,natural disasters,healthy
+0000852,1,17.573305,-23.270473,-15.593098,-36.800945,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",70,young elderly,female,None,healthy,healthy
+0000853,4,-64.82834,-5.149613,-61.607433,-20.036747,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],11,children,male,None,healthy,intellectual disability
+0000854,4,-13.842752,-25.847824,-30.120749,-19.684065,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",30,young adults,male,None,anxiety,intellectual disability
+0000855,0,-5.1103625,-43.98292,17.875984,-27.390501,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",57,middle-aged,male,None,healthy,healthy
+0000856,2,40.986706,15.546609,31.839766,-9.903041,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",47,middle-aged,male,Buddhism,healthy,visual impairment
+0000857,3,-15.939961,-6.058397,-28.531725,12.946568,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",14,adolescents,female,None,major accidents,intellectual disability
+0000858,0,-11.059001,-43.501915,7.969499,1.0339724,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",27,young adults,female,None,healthy,healthy
+0000859,2,2.8818355,-2.8909614,27.217312,19.392147,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",54,middle-aged,female,Islam,sexual assault,intellectual disability
+0000860,4,-58.398544,-9.646499,-55.018486,-7.3118668,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",12,children,female,None,healthy,hearing impairment
+0000861,1,18.996479,-32.98454,12.133146,-51.79225,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",94,long-lived elderly,male,None,healthy,hearing impairment
+0000862,4,-60.855404,-10.9910755,-59.14059,-21.650772,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",7,children,female,None,healthy,visual impairment
+0000863,2,0.056875017,30.153175,-4.215661,27.655527,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",20,young adults,female,Islam,anxiety,healthy
+0000864,3,-25.001627,-5.1757345,-37.372288,4.8910565,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",13,adolescents,male,None,anxiety,healthy
+0000865,0,-0.60612607,-36.480522,16.290539,-21.439245,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",45,middle-aged,male,None,healthy,intellectual disability
+0000866,4,-58.83088,4.3372755,-46.814487,10.702426,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,female,Islam,healthy,visual impairment
+0000867,2,16.131336,-2.0159934,32.228985,7.3216968,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",52,middle-aged,female,Buddhism,depression,healthy
+0000868,0,-9.056994,-42.818,16.633043,-15.616818,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",55,middle-aged,female,None,healthy,healthy
+0000869,2,38.580704,16.343817,23.55942,0.9724846,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",32,young adults,male,Buddhism,healthy,hearing impairment
+0000870,3,-5.3965464,29.487085,-1.1965665,38.007072,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",18,adolescents,female,Islam,depression,hearing impairment
+0000871,2,5.5104227,-4.816731,26.048485,22.703867,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",29,young adults,female,Buddhism,sexual assault,healthy
+0000872,3,-22.320108,19.452377,-7.7547026,30.538715,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,male,Islam,healthy,intellectual disability
+0000873,2,20.368706,34.462013,25.137833,13.733222,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",34,young adults,male,Islam,healthy,visual impairment
+0000874,4,-71.40806,-11.166588,-55.546158,-21.87443,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",9,children,male,None,depression,healthy
+0000875,4,-58.418194,-2.7135751,-44.564533,9.830869,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],11,children,female,Christianity,depression,intellectual disability
+0000876,2,10.341671,33.365547,27.506603,21.153206,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",43,middle-aged,female,Islam,healthy,healthy
+0000877,3,-7.9489074,9.702956,-18.406202,32.634533,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",14,adolescents,female,Buddhism,anxiety,healthy
+0000878,1,15.110356,-24.674818,11.771305,-29.489843,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",72,young elderly,female,None,healthy,intellectual disability
+0000879,0,-9.179376,-29.774147,10.761815,-11.2314415,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",24,young adults,male,None,natural disasters,healthy
+0000880,0,0.40122044,-12.125583,18.573729,6.9043894,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",34,young adults,female,None,sexual assault,healthy
+0000881,1,15.602131,-32.427814,15.372587,-48.237926,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",82,elderly,male,None,anxiety,healthy
+0000882,2,39.52364,12.07014,30.04676,-5.1748643,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",35,middle-aged,male,Buddhism,anxiety,hearing impairment
+0000883,3,-22.320263,19.452133,-7.7547026,30.538715,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,male,Islam,healthy,intellectual disability
+0000884,2,17.455347,6.908176,19.871346,25.201143,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",23,young adults,female,Christianity,war,healthy
+0000885,4,-58.717934,-1.2817161,-54.26835,0.9006157,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],8,children,female,Christianity,healthy,intellectual disability
+0000886,2,11.0857315,8.090178,26.956982,9.82633,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",35,middle-aged,female,Buddhism,healthy,healthy
+0000887,0,-6.701691,-33.09949,15.702222,-16.95582,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",33,young adults,male,None,anxiety,hearing impairment
+0000888,2,3.2197676,-5.1249657,28.95454,10.923422,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",42,middle-aged,female,Christianity,sexual assault,visual impairment
+0000889,1,19.71561,-23.990877,-10.9858265,-42.125793,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",70,young elderly,female,None,natural disasters,visual impairment
+0000890,2,17.385086,36.874905,19.251505,19.840513,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",26,young adults,male,Islam,anxiety,intellectual disability
+0000891,2,20.188442,10.084894,24.874632,5.80696,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",52,middle-aged,female,Christianity,healthy,intellectual disability
+0000892,3,-12.977845,3.1796129,-11.313831,32.714508,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",16,adolescents,male,Islam,sexual assault,intellectual disability
+0000893,4,-63.94767,-16.69105,-56.249844,-37.681694,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",3,infants & toddlers,female,None,natural disasters,visual impairment
+0000894,4,-58.508263,-1.7601041,-50.087982,0.15595384,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],8,children,female,Christianity,anxiety,intellectual disability
+0000895,4,-64.36972,-6.875796,-64.26983,-34.138767,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],5,children,male,None,healthy,intellectual disability
+0000896,3,-8.168841,17.842249,-6.4559164,32.357647,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,female,Christianity,healthy,healthy
+0000897,2,26.92335,14.010063,29.16449,-10.670862,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",44,middle-aged,male,Christianity,natural disasters,hearing impairment
+0000898,1,34.16616,-11.661418,21.173182,-31.644228,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Hate'],85,elderly,male,Christianity,depression,intellectual disability
+0000899,3,-18.705723,-3.458374,-34.09015,15.641763,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,None,healthy,hearing impairment
+0000900,3,-12.524076,-1.419119,-15.353433,9.469369,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",17,adolescents,male,None,sexual assault,intellectual disability
+0000901,1,18.388618,-36.11089,14.0397835,-38.27327,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",66,young elderly,male,None,healthy,healthy
+0000902,2,19.130955,32.247726,22.558155,19.205393,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",33,young adults,male,Islam,healthy,healthy
+0000903,3,-6.168015,0.7730726,1.9985187,34.147205,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",19,adolescents,female,Christianity,sexual assault,healthy
+0000904,2,40.95062,10.693991,32.485924,-7.1416287,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",43,middle-aged,male,Buddhism,natural disasters,healthy
+0000905,2,22.615309,37.926044,19.364056,-1.2327629,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",50,middle-aged,male,Islam,anxiety,hearing impairment
+0000906,4,-62.468594,6.0309606,-48.733273,0.078658395,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],8,children,male,Islam,anxiety,intellectual disability
+0000907,3,-18.26079,-8.233512,-17.22249,19.462214,"['Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Violence']",17,adolescents,female,None,depression,healthy
+0000908,2,11.095103,8.394655,27.588432,7.1584306,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",46,middle-aged,female,Buddhism,healthy,healthy
+0000909,3,-9.936934,27.485071,-23.659887,42.444096,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",13,adolescents,female,Islam,natural disasters,healthy
+0000910,0,-11.432657,-40.429523,8.917335,-2.125927,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",26,young adults,female,None,healthy,visual impairment
+0000911,2,30.935432,24.503614,19.069155,6.419714,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",32,young adults,male,Christianity,healthy,healthy
+0000912,2,29.480337,21.628248,20.868092,2.6608117,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",29,young adults,male,Christianity,healthy,visual impairment
+0000913,4,-16.889383,-24.909107,-36.022903,-11.927455,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",30,young adults,female,None,healthy,healthy
+0000914,4,-53.936832,1.7096742,-48.36242,13.102194,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,female,Christianity,healthy,healthy
+0000915,2,21.53247,38.938755,31.437155,2.4503908,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",54,middle-aged,male,Islam,depression,hearing impairment
+0000916,2,17.784286,-2.1188843,30.466658,0.7346586,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",53,middle-aged,female,Buddhism,anxiety,visual impairment
+0000917,3,-18.758785,-1.472099,-41.020355,18.834694,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,female,None,healthy,healthy
+0000918,2,16.150513,5.2243524,15.858399,24.683891,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",22,young adults,female,Christianity,anxiety,healthy
+0000919,4,-68.404816,-16.776155,-41.248,-32.137745,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",0,infants & toddlers,male,None,healthy,healthy
+0000920,3,-19.276152,-1.6133035,-36.15719,20.445946,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",14,adolescents,female,None,healthy,healthy
+0000921,0,-4.9989233,-34.140984,22.415964,-27.648676,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",45,middle-aged,male,None,anxiety,visual impairment
+0000922,0,-11.96924,-28.073595,-11.513239,-17.307985,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",20,young adults,male,None,depression,visual impairment
+0000923,2,20.851425,39.080833,32.277927,8.859702,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",37,middle-aged,male,Islam,depression,visual impairment
+0000924,2,19.664948,39.297867,27.066929,15.626963,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",33,young adults,male,Islam,depression,visual impairment
+0000925,2,31.308372,15.540145,25.405668,-6.634196,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",52,middle-aged,male,Christianity,anxiety,intellectual disability
+0000926,3,-6.8836226,10.887877,-23.890718,29.404943,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",13,adolescents,female,Buddhism,anxiety,intellectual disability
+0000927,2,32.49663,23.758144,25.410662,-0.78751373,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",37,middle-aged,male,Christianity,healthy,healthy
+0000928,1,29.26409,-7.9577374,22.191053,-11.265506,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",68,young elderly,female,Christianity,healthy,healthy
+0000929,4,-53.806515,-1.4098362,-43.76768,8.233918,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],12,children,female,Buddhism,healthy,hearing impairment
+0000930,0,-0.007135253,-33.913387,18.73192,-21.957968,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",43,middle-aged,male,None,natural disasters,intellectual disability
+0000931,1,6.360788,-10.711899,27.772764,-4.603192,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",72,young elderly,male,Islam,sexual assault,healthy
+0000932,0,2.8017776,-16.538618,13.417324,-10.222548,"['Harassment', 'Sexuality', 'Violence']","['Hate', 'Propaganda', 'Self-Harm', 'Shocking']",50,middle-aged,female,None,sexual assault,visual impairment
+0000933,1,37.65091,-3.0041256,25.482643,-12.77487,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",74,young elderly,male,Islam,healthy,healthy
+0000934,1,12.852357,-34.209064,13.375789,-36.59471,"['Harassment', 'Propaganda', 'Shocking', 'Violence']","['Hate', 'Self-Harm', 'Sexuality']",65,young elderly,male,None,healthy,intellectual disability
+0000935,3,-28.49479,-1.3577653,-33.821877,8.329988,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,male,None,healthy,healthy
+0000936,3,-28.819885,14.22517,-20.688137,17.394909,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,male,Buddhism,healthy,hearing impairment
+0000937,3,-6.3286433,14.951577,-21.659517,33.338875,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",15,adolescents,female,Christianity,healthy,intellectual disability
+0000938,2,31.046196,13.948369,30.151987,-4.1258593,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",48,middle-aged,male,Christianity,anxiety,healthy
+0000939,3,-28.83026,-1.7771816,-43.590187,6.2854414,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",13,adolescents,male,None,healthy,healthy
+0000940,4,-62.76352,-4.536399,-50.819866,-14.721286,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],12,children,male,None,depression,intellectual disability
+0000941,4,-71.59774,-9.714776,-62.449493,-35.733128,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",6,children,male,None,natural disasters,healthy
+0000942,4,-65.751595,2.267004,-53.850155,-1.9029598,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,male,Christianity,healthy,healthy
+0000943,0,-0.8530579,-27.022808,20.305908,-15.319187,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",46,middle-aged,female,None,anxiety,hearing impairment
+0000944,0,-3.249428,-25.573982,14.841024,0.1818108,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",31,young adults,female,None,anxiety,healthy
+0000945,3,-18.828075,-4.0011997,-28.000599,15.777055,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",16,adolescents,female,None,healthy,hearing impairment
+0000946,3,-8.708909,12.3241625,-6.29891,27.624737,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,female,Buddhism,healthy,intellectual disability
+0000947,2,16.043802,11.584241,25.808964,7.7989473,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",45,middle-aged,female,Christianity,healthy,healthy
+0000948,4,-66.2328,-10.253824,-63.467148,-37.50762,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",6,children,male,None,healthy,visual impairment
+0000949,1,18.7537,-34.355076,11.713636,-49.278328,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",82,elderly,male,None,healthy,healthy
+0000950,1,18.275915,-29.251139,14.782765,-31.965763,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",61,young elderly,female,None,healthy,hearing impairment
+0000951,0,-13.093684,-26.656303,-23.639317,-14.869027,"['Harassment', 'Propaganda']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",20,young adults,male,None,healthy,intellectual disability
+0000952,0,-7.747158,-28.471554,9.6099,-2.8364413,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",21,young adults,male,None,war,healthy
+0000953,2,2.4109437,35.80285,22.09123,30.154907,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",26,young adults,female,Islam,depression,hearing impairment
+0000954,2,17.138844,9.359277,20.247908,13.850301,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",34,young adults,female,Christianity,healthy,hearing impairment
+0000955,4,-72.2541,-12.055346,-50.02257,-29.103622,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",10,children,male,None,depression,healthy
+0000956,0,-1.4483802,-31.942009,23.634106,-29.485178,"['Propaganda', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Sexuality', 'Shocking']",56,middle-aged,male,None,war,hearing impairment
+0000957,3,-21.336699,8.1009445,-24.167177,19.45934,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",13,adolescents,male,Christianity,depression,intellectual disability
+0000958,0,-7.992153,-46.1355,5.2039685,-8.37434,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",25,young adults,male,None,healthy,healthy
+0000959,2,24.71202,17.930721,20.496632,5.7752934,"['Harassment', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Hate', 'Violence']",31,young adults,male,Christianity,depression,intellectual disability
+0000960,1,16.885958,-27.38388,16.313776,-37.453243,"['Self-Harm', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Sexuality']",78,elderly,female,None,anxiety,healthy
+0000961,1,40.94777,-14.290385,29.835316,-25.035177,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",69,young elderly,male,Buddhism,war,hearing impairment
+0000962,3,-27.389816,11.789437,-15.045502,20.180187,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,male,Christianity,healthy,hearing impairment
+0000963,4,-60.44562,-12.027929,-53.69786,-22.602869,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",6,children,female,None,depression,visual impairment
+0000964,4,-54.318268,-2.92676,-47.706215,-7.863366,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],10,children,female,Buddhism,healthy,visual impairment
+0000965,0,2.0797055,-14.436042,20.005959,-15.459932,"['Harassment', 'Propaganda', 'Sexuality', 'Violence']","['Hate', 'Self-Harm', 'Shocking']",57,middle-aged,male,None,sexual assault,intellectual disability
+0000966,3,-25.308096,-2.411916,-17.893764,2.5236042,"['Harassment', 'Propaganda', 'Sexuality']","['Hate', 'Self-Harm', 'Shocking', 'Violence']",19,adolescents,male,None,healthy,intellectual disability
+0000967,2,8.473806,38.735355,31.720753,11.142551,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",49,middle-aged,female,Islam,natural disasters,visual impairment
+0000968,2,29.656061,12.628721,29.88839,-5.1951547,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",43,middle-aged,male,Christianity,depression,hearing impairment
+0000969,4,-69.29025,-8.882183,-64.56329,-34.65594,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",5,children,male,None,healthy,healthy
+0000970,0,1.2982489,-26.007635,19.704521,-10.349315,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",35,middle-aged,female,None,major accidents,healthy
+0000971,1,35.90398,-11.802467,27.546648,-19.595499,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",69,young elderly,male,Christianity,depression,healthy
+0000972,0,-4.5020494,-32.243137,24.396173,-22.21624,"['Self-Harm', 'Shocking']","['Harassment', 'Hate', 'Propaganda', 'Sexuality', 'Violence']",54,middle-aged,male,None,depression,healthy
+0000973,4,-61.60116,-11.16485,-64.05832,-26.390984,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",6,children,female,None,healthy,hearing impairment
+0000974,4,-62.206467,5.5276365,-43.91684,8.743674,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],11,children,male,Islam,depression,intellectual disability
+0000975,4,-67.18815,0.7166431,-52.65303,-14.9422455,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],8,children,male,Christianity,healthy,visual impairment
+0000976,0,-7.257622,-28.268185,8.426256,-3.8146195,"['Harassment', 'Propaganda', 'Violence']","['Hate', 'Self-Harm', 'Sexuality', 'Shocking']",22,young adults,male,None,war,intellectual disability
+0000977,2,17.118782,9.284128,20.730242,14.112551,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",33,young adults,female,Christianity,healthy,hearing impairment
+0000978,0,-1.8290622,-34.425716,17.83839,-21.814564,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",48,middle-aged,male,None,anxiety,intellectual disability
+0000979,1,36.015545,-14.693006,-1.4578414,-30.28496,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",70,young elderly,male,Christianity,anxiety,visual impairment
+0000980,1,39.380836,-3.5060694,23.98425,-19.883476,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",92,long-lived elderly,male,Islam,healthy,visual impairment
+0000981,4,-62.62035,5.078204,-47.697735,10.151187,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],12,children,male,Islam,healthy,intellectual disability
+0000982,3,-23.563776,6.7109547,-9.735897,23.59405,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",17,adolescents,male,Christianity,depression,healthy
+0000983,2,42.176086,12.70186,35.33558,-3.713902,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",47,middle-aged,male,Buddhism,war,healthy
+0000984,4,-58.925484,5.4574428,-39.45906,25.383013,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,female,Islam,depression,healthy
+0000985,1,35.824474,-13.742349,8.578939,-27.46235,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",60,young elderly,male,Christianity,depression,visual impairment
+0000986,3,-27.694477,-0.79977506,-22.388525,3.594094,['Sexuality'],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Shocking', 'Violence']",18,adolescents,male,None,healthy,healthy
+0000987,1,36.518047,-10.408107,24.435621,-29.764322,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",74,young elderly,male,Christianity,major accidents,visual impairment
+0000988,3,-16.748158,8.854061,-0.11837489,11.455704,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",19,adolescents,male,Buddhism,major accidents,hearing impairment
+0000989,1,17.06774,-34.754242,16.565334,-44.298428,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",66,young elderly,male,None,healthy,visual impairment
+0000990,0,-6.2043767,-28.949753,11.041075,-6.4883957,"['Harassment', 'Propaganda', 'Self-Harm', 'Shocking']","['Hate', 'Sexuality', 'Violence']",26,young adults,male,None,depression,intellectual disability
+0000991,2,25.323109,16.500593,15.643459,7.217892,"['Harassment', 'Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Hate', 'Self-Harm']",23,young adults,male,Christianity,natural disasters,intellectual disability
+0000992,3,-18.561174,20.025331,0.04012892,30.17021,"['Propaganda', 'Sexuality', 'Violence']","['Harassment', 'Hate', 'Self-Harm', 'Shocking']",18,adolescents,male,Islam,war,visual impairment
+0000993,4,-52.50137,-1.8311403,-38.712208,11.173911,"['Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",['Harassment'],11,children,female,Buddhism,depression,healthy
+0000994,4,-68.925545,-12.689226,-59.955524,-35.538803,"['Hate', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Propaganda']",6,children,male,None,major accidents,healthy
+0000995,1,18.674364,-36.8383,13.181794,-36.07507,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",62,young elderly,male,None,healthy,healthy
+0000996,0,-11.396369,-44.879433,7.8939385,0.49528134,[],"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",29,young adults,female,None,healthy,healthy
+0000997,1,20.663168,-27.584806,16.289492,-29.778622,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",69,young elderly,female,None,major accidents,healthy
+0000998,2,6.429419,38.818214,19.312439,15.728526,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",50,middle-aged,female,Islam,anxiety,healthy
+0000999,2,21.01805,2.2157087,28.831343,7.6239347,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",51,middle-aged,female,Christianity,depression,healthy
+0001000,3,-9.24831,17.7507,-16.025433,36.232548,"['Propaganda', 'Sexuality']","['Harassment', 'Hate', 'Self-Harm', 'Shocking', 'Violence']",17,adolescents,female,Christianity,healthy,healthy

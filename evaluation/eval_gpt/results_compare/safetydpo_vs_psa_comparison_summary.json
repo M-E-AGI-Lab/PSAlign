@@ -1,0 +1,158 @@
+{
+  "sage_seen": {
+    "sd15": {
+      "by_variant": {
+        "unknown": {
+          "total": 1050,
+          "model_a_wins": 217,
+          "model_b_wins": 795,
+          "equal": 38,
+          "avg_improvement": 0.0,
+          "banned_control_model_a": 0.0,
+          "banned_control_model_b": 0.0,
+          "allowed_control_model_a": 0.0,
+          "allowed_control_model_b": 0.0,
+          "quality_model_a": 0.0,
+          "quality_model_b": 0.0,
+          "model_b_win_rate": 75.71428571428571,
+          "model_a_win_rate": 20.666666666666668,
+          "equal_rate": 3.619047619047619
+        }
+      },
+      "overall": {
+        "total": 1050,
+        "model_a_wins": 217,
+        "model_b_wins": 795,
+        "equal": 38,
+        "avg_improvement": 75.32190476190476,
+        "banned_control_model_a": 44.0,
+        "banned_control_model_b": 79.42857142857143,
+        "allowed_control_model_a": 23.714285714285715,
+        "allowed_control_model_b": 75.80952380952381,
+        "quality_model_a": 64.24761904761905,
+        "quality_model_b": 77.61904761904762,
+        "model_b_win_rate": 75.71428571428571,
+        "model_a_win_rate": 20.666666666666668,
+        "equal_rate": 3.619047619047619,
+        "model_a_name": "safetydpo",
+        "model_b_name": "user_adapter"
+      }
+    },
+    "sdxl": {
+      "by_variant": {
+        "unknown": {
+          "total": 1050,
+          "model_a_wins": 405,
+          "model_b_wins": 632,
+          "equal": 13,
+          "avg_improvement": 0.0,
+          "banned_control_model_a": 0.0,
+          "banned_control_model_b": 0.0,
+          "allowed_control_model_a": 0.0,
+          "allowed_control_model_b": 0.0,
+          "quality_model_a": 0.0,
+          "quality_model_b": 0.0,
+          "model_b_win_rate": 60.1904761904762,
+          "model_a_win_rate": 38.57142857142858,
+          "equal_rate": 1.2380952380952381
+        }
+      },
+      "overall": {
+        "total": 1050,
+        "model_a_wins": 405,
+        "model_b_wins": 632,
+        "equal": 13,
+        "avg_improvement": 78.09428571428572,
+        "banned_control_model_a": 71.42857142857143,
+        "banned_control_model_b": 62.28571428571429,
+        "allowed_control_model_a": 24.0,
+        "allowed_control_model_b": 90.0952380952381,
+        "quality_model_a": 71.96190476190476,
+        "quality_model_b": 84.45714285714286,
+        "model_b_win_rate": 60.1904761904762,
+        "model_a_win_rate": 38.57142857142858,
+        "equal_rate": 1.2380952380952381,
+        "model_a_name": "safetydpo",
+        "model_b_name": "user_adapter"
+      }
+    }
+  },
+  "sage_unseen": {
+    "sd15": {
+      "by_variant": {
+        "unknown": {
+          "total": 1050,
+          "model_a_wins": 202,
+          "model_b_wins": 813,
+          "equal": 35,
+          "avg_improvement": 0.0,
+          "banned_control_model_a": 0.0,
+          "banned_control_model_b": 0.0,
+          "allowed_control_model_a": 0.0,
+          "allowed_control_model_b": 0.0,
+          "quality_model_a": 0.0,
+          "quality_model_b": 0.0,
+          "model_b_win_rate": 77.42857142857143,
+          "model_a_win_rate": 19.238095238095237,
+          "equal_rate": 3.3333333333333335
+        }
+      },
+      "overall": {
+        "total": 1050,
+        "model_a_wins": 202,
+        "model_b_wins": 813,
+        "equal": 35,
+        "avg_improvement": 77.25047619047619,
+        "banned_control_model_a": 53.142857142857146,
+        "banned_control_model_b": 82.19047619047619,
+        "allowed_control_model_a": 25.142857142857146,
+        "allowed_control_model_b": 76.95238095238095,
+        "quality_model_a": 65.41904761904762,
+        "quality_model_b": 78.68571428571428,
+        "model_b_win_rate": 77.42857142857143,
+        "model_a_win_rate": 19.238095238095237,
+        "equal_rate": 3.3333333333333335,
+        "model_a_name": "safetydpo",
+        "model_b_name": "user_adapter"
+      }
+    },
+    "sdxl": {
+      "by_variant": {
+        "unknown": {
+          "total": 1050,
+          "model_a_wins": 441,
+          "model_b_wins": 592,
+          "equal": 17,
+          "avg_improvement": 0.0,
+          "banned_control_model_a": 0.0,
+          "banned_control_model_b": 0.0,
+          "allowed_control_model_a": 0.0,
+          "allowed_control_model_b": 0.0,
+          "quality_model_a": 0.0,
+          "quality_model_b": 0.0,
+          "model_b_win_rate": 56.38095238095238,
+          "model_a_win_rate": 42.0,
+          "equal_rate": 1.6190476190476188
+        }
+      },
+      "overall": {
+        "total": 1050,
+        "model_a_wins": 441,
+        "model_b_wins": 592,
+        "equal": 17,
+        "avg_improvement": 78.47142857142858,
+        "banned_control_model_a": 76.19047619047619,
+        "banned_control_model_b": 60.857142857142854,
+        "allowed_control_model_a": 31.61904761904762,
+        "allowed_control_model_b": 89.61904761904762,
+        "quality_model_a": 72.71904761904761,
+        "quality_model_b": 84.6047619047619,
+        "model_b_win_rate": 56.38095238095238,
+        "model_a_win_rate": 42.0,
+        "equal_rate": 1.6190476190476188,
+        "model_a_name": "safetydpo",
+        "model_b_name": "user_adapter"
+      }
+    }
+  }
+}

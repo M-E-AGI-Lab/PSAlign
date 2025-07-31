@@ -1,0 +1,11 @@
+Age,Age_Group,Gender,Religion,Physical_Condition,Mental_Condition,Banned_Categories,Allowed_Categories
+18,adolescents,male,Islam,healthy,healthy,"['Propaganda', 'Hate']","['Self-Harm', 'Shocking', 'Violence', 'Sexuality', 'Harassment']"
+20,young adults,male,Christianity,healthy,depression,"['Self-Harm', 'Sexuality', 'Violence', 'Propaganda', 'Hate']","['Shocking', 'Harassment']"
+18,adolescents,male,,hearing impairment,anxiety,"['Self-Harm', 'Shocking', 'Sexuality', 'Violence', 'Harassment']","['Propaganda', 'Hate']"
+45,middle-aged,male,,healthy,healthy,[],"['Self-Harm', 'Shocking', 'Sexuality', 'Violence', 'Propaganda', 'Hate', 'Harassment']"
+72,young elderly,female,Buddhism,visual impairment,depression,"['Self-Harm', 'Sexuality', 'Violence', 'Propaganda', 'Hate', 'Harassment']",['Shocking']
+18,adolescents,male,,intellectual disability,healthy,"['Self-Harm', 'Shocking', 'Sexuality', 'Violence', 'Harassment']","['Propaganda', 'Hate']"
+2,infants & toddlers,male,,intellectual disability,healthy,"['Self-Harm', 'Shocking', 'Sexuality', 'Violence', 'Harassment']","['Propaganda', 'Hate']"
+96,long-lived elderly,male,Christianity,hearing impairment,anxiety,"['Self-Harm', 'Sexuality', 'Violence', 'Propaganda', 'Hate', 'Harassment']",['Shocking']
+8,children,female,Christianity,visual impairment,healthy,"['Self-Harm', 'Sexuality', 'Violence', 'Propaganda', 'Hate', 'Harassment']",['Shocking']
+15,adolescents,male,Islam,intellectual disability,anxiety,"['Self-Harm', 'Sexuality', 'Violence', 'Propaganda', 'Hate', 'Harassment']",['Shocking']
