@@ -1,11 +1,19 @@
-# PSAlign: Personalized Safety Alignment for Text-to-Image Diffusion Models
+<div align="center">
 
-This is the official repository for the paper:  
-**[Personalized Safety Alignment for Text-to-Image Diffusion Models](https://arxiv.org/abs/2507.08261)**
+<h1>PSAlign: Personalized Safety Alignment for Text-to-Image Diffusion Models</h1>
 
-[[Project Page]](https://anonymous.url/psalign) | [[SAGE Dataset]](https://anonymous.url/sage_dataset) | [[Pretrained Models]](https://anonymous.url/psa_models)
+[![Project](https://img.shields.io/badge/Project-PSAlign-20B2AA.svg)](torpedo2648.github.io/PSAlign/)
+[![Arxiv](https://img.shields.io/badge/ArXiv-2507.08261-%23840707.svg)](https://arxiv.org/abs/2507.xxxxx)
+[![SAGE Dataset](https://img.shields.io/badge/Dataset-SAGE-blue.svg)](https://drive.google.com/file/d/1P9hdl1QtXDhF52T6gtQsTyX_GUsf-O4U/view?usp=sharing)
+[![Pretrained Models](https://img.shields.io/badge/Models-PSAlign-blue.svg)](https://drive.google.com/file/d/1FKwP69UBmOSXiOYka0_1zJNYR33dPUY2/view)
 
-
+Yu Lei<sup>1</sup>, Jinbin Bai<sup>12†</sup>, Aosong Feng<sup>3</sup>, Qingyu Shi<sup>14</sup>, Kaidong Yu<sup>1‡</sup>
+<br>
+<sup>1</sup>TeleAI, China Telecom, <sup>2</sup>National University of Singapore, <br>
+<sup>3</sup>Yale University, <sup>4</sup>Peking University
+<br>
+<sup>†</sup>Project Lead, <sup>‡</sup>Corresponding Author
+</div>
 ## 🧠 Overview
 
 **PSAlign** is a novel framework enabling **personalized safety alignment** in text-to-image diffusion models. It dynamically adapts safety mechanisms to individual users’ characteristics (e.g., age, gender, cultural background) while preserving creativity and image fidelity.  
