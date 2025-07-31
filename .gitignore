@@ -60,3 +60,7 @@ data/user_data/num_1k/embeddings/*
 evaluation/eval_images/*
 !evaluation/eval_images/README.md
 !evaluation/eval_images/debug/
+
+evaluation/Q16/data/*
+!evaluation/Q16/data/ViT-L-14/
+!evaluation/Q16/data/ViT-L-14/*
