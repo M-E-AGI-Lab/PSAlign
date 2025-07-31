@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+    content="PSA: Personalized Safety Alignment for Text-to-Image Diffusion Models">
+  <meta name="keywords" content="PSA, Safety Alignment, Text-to-Image">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>PSA</title>
+
+<!-- <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MRQC0YFE17');
+</script> -->
+
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script src="https://unpkg.com/interactjs/dist/interact.min.js"></script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" href="./static/slick/slick.css" />
+  <link rel="stylesheet" type="text/css" href="./static/slick/slick-theme.css" />
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+
+<body>
+
+  <style>
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+    }
+  </style>
+
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <!-- <div class="navbar-menu">
+      <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+        <a class="navbar-item" href="https://noyii.github.io/">
+        <span class="icon">
+            <i class="fas fa-home"></i>
+        </span>
+        </a>
+
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            More Research
+          </a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="https://viiika.github.io/meissonic">
+              Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis
+            </a>
+            <a class="navbar-item" href="https://viiika.github.io/HumanEdit">
+              HumanEdit: A High-Quality Human-Rewarded Dataset for Instruction-based Image Editing
+            </a>
+          </div>
+        </div>
+          
+        </div>
+      </div>
+    </div> -->
+  </nav>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container">
+        
+        <div class="container has-text-centered">
+          
+          <h1 class="title is-1 publication-title">
+            Personalized Safety Alignment for Text-to-Image Diffusion Models
+          </h1>
+          
+          <div class="is-size-5 publication-authors">
+            <div class="author-block">
+              <a href="https://scholar.google.com/citations?user=MbpRPIQAAAAJ">Yu Lei</a><sup>1</sup>,
+            </div>
+            <div class="author-block">
+              <a href="https://noyii.github.io">Jinbin Bai</a><sup>12†</sup>,
+            </div>
+            <div class="author-block">
+              <a href="https://scholar.google.com/citations?user=hFhhrmgAAAAJ">Aosong Feng</a><sup>3</sup>
+            </div>
+            <div class="author-block">
+              <a href="https://scholar.google.com/citations?hl=en&user=VpSqhJAAAAAJ">Qingyu Shi</a><sup>14</sup>
+            </div>
+            <div class="author-block">
+              <a href="https://openreview.net/profile?id=~Kaidong_Yu1">Kaidong Yu</a><sup>1‡</sup>
+            </div><br>
+          </div>
+          
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>TeleAI, China Telecom</span>, 
+            <span class="author-block"><sup>2</sup>National University of Singapore</span>, 
+            <span class="author-block"><sup>3</sup>Yale University</span>, 
+            <span class="author-block"><sup>4</sup>Peking University</span>
+            <br>
+            <span class="author-block"><sup>†</sup>Project Lead</span>, 
+            <span class="author-block"><sup>‡</sup>Corresponding Author</span>
+            <br>
+            <span class="author-block">leiyu2648@gmail.com</span>, 
+            <span class="author-block">jinbin.bai@u.nus.edu</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="#" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>Arxiv</span>
+                </a>
+              </span>
+
+              <span class="link-block">
+                <a href="https://github.com/Torpedo2648/PSAlign"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                </a>
+              </span>
+
+              <span class="link-block">
+                <a href="#"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fa fa-database"></i>
+                  </span>
+                  <span>Dataset</span>
+                </a>
+              </span>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="hero teaser">
+    <div class="hero-body" style="max-width: 800px; margin: 0 auto; text-align: center;">
+      <div class="container is-max-desktop">
+        <img src="./assets/demo.png" alt="Teaser Image" width="80%" style="display: block; margin: 0 auto;">
+        <h2 class="subtitle has-text-centered">
+          PSA is a novel framework for personalizing safety controls in text-to-image generation. Unlike existing models that apply a one-size-fits-all safety filter, PSA dynamically adjusts outputs based on each user's age, mental health, and personal values. The demo shows how PSA adapts image content across three user profiles with increasing safety sensitivity.
+        </h2>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section">
+    <div class="container is-max-desktop">
+
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+            Text-to-image diffusion models have revolutionized visual content generation, but current safety mechanisms apply uniform standards that often fail to account for individual user preferences. These models overlook the diverse safety boundaries shaped by factors like age, mental health, and personal beliefs. To address this, we propose Personalized Safety Alignment (PSA), a framework that allows user-specific control over safety behaviors in generative models. PSA integrates personalized user profiles into the diffusion process, adjusting the model's behavior to match individual safety preferences while preserving image quality. We introduce a new dataset, Sage, which captures user-specific safety preferences and incorporates these profiles through a cross-attention mechanism. Experiments show that PSA outperforms existing methods in harmful content suppression and aligns generated content better with user constraints, achieving higher Win Rate and Pass Rate scores.
+            </p>
+          </div>
+        </div>
+      </div>
+
+  </section>
+
+  <section class="method">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Method</h2>
+          <div class="content has-text-justified">
+            <p>
+              <strong>Personalized Safety Alignment (PSA)</strong> enables user-specific content moderation in text-to-image generation. Unlike global safety filters, PSA tailors outputs to individual user profiles, allowing nuanced alignment with diverse safety expectations.
+            </p>
+
+            <p>
+              We first construct the <strong>Sage Dataset</strong>, which includes 1,000 virtual users—each defined by attributes like age, religion, and mental health. Using LLMs, we infer which content categories each user finds unsafe, and cluster the resulting embeddings as shown below.
+            </p>
+          </div>
+
+          <div class="columns is-centered is-vcentered mb-5">
+            <div class="column has-text-centered">
+              <img src="./assets/cluster.png" style="width: 95%;" alt="User Embedding Clusters" />
+              <p class="is-size-6 mt-2">
+                <em>User embeddings clustered via t-SNE (k=5), showing diverse safety preferences.</em>
+              </p>
+            </div>
+            <div class="column has-text-centered">
+              <img src="./assets/process.png" style="width: 95%;" alt="Concept-Pair Generation Process" />
+              <p class="is-size-6 mt-2">
+                <em>For each concept, an LLM generates harmful/safe prompts to form supervision pairs.</em>
+              </p>
+            </div>
+          </div>
+
+          <div class="content has-text-justified">
+            <p>
+              For each sensitive concept, we generate a pair of prompts: one harmful and one safe. These are used to create corresponding image pairs, allowing us to construct user-conditioned training data. An LLM determines which version a user would prefer, enabling <em>pairwise supervision</em> per user.
+            </p>
+          </div>
+
+          <div class="container is-max-desktop mb-5">
+            <img src="./assets/training.png" alt="Training Pipeline" />
+            <p class="has-text-centered is-size-6 mt-2"><em>Training pipeline: the model learns to prefer safe or unsafe images based on the user’s profile.</em></p>
+          </div>
+
+          <div class="content has-text-justified">
+            <p>
+              We extend Stable Diffusion and SDXL with <strong>cross-attention adapters</strong> that condition generation on the user embedding. The adapters introduce a lightweight control branch in each U-Net attention layer, allowing safety preferences to guide generation without retraining the entire model.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="experiment">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Experimental Results</h2>
+          <p class="content has-text-justified">
+            We evaluate PSA across two backbones (SD v1.5 and SDXL), using both quantitative metrics and qualitative examples. Results highlight PSA’s effectiveness in suppressing harmful content and respecting user preferences.
+          </p>
+          <!-- Harmful Suppression Tables -->
+          <h3 class="title is-4 mt-5 ">General Harmful Content Suppression</h3>
+          <p class="content has-text-justified">
+            PSA significantly reduces the likelihood of generating unsafe content while preserving fidelity. Here, we show comparative performance on standard benchmarks.
+          </p>
+          <div class="columns is-variable is-6 is-centered">
+            <div class="column has-text-centered">
+              <img src="./assets/sd15_table.png" alt="SD15 Suppression Table" style="width: 95%; display: block; margin: auto;" />
+              <p class="is-size-6 mt-2"><em>PSA on SD v1.5 reduces inappropriate probability (IP) while preserving image quality.</em></p>
+            </div>
+            <div class="column has-text-centered">
+              <img src="./assets/sdxl_table.png" alt="SDXL Suppression Table" style="width: 95%; display: block; margin: auto;" />
+              <p class="is-size-6 mt-2"><em>On SDXL, PSA achieves even stronger suppression across all safety datasets.</em></p>
+            </div>
+          </div>
+
+          <!-- Personalized Evaluation -->
+          <h3 class="title is-4 mt-6">Personalized Safety Alignment</h3>
+          <p class="content has-text-justified">
+            Beyond global suppression, PSA excels in tailoring outputs to individual user constraints. We compare models on seen and unseen user profiles.
+          </p>
+          <div class="columns is-variable is-6 is-centered">
+            <div class="column has-text-centered">
+              <img src="./assets/win_rate.png" alt="Win Rate Chart" style="width: 95%; display: block; margin: auto;" />
+              <p class="is-size-6 mt-2"><em>PSA achieves higher Win Rate over base model and SafetyDPO for both seen and unseen users.</em></p>
+            </div>
+            <div class="column has-text-centered">
+              <img src="./assets/passrate_table.png" alt="Pass Rate Table" style="width: 95%; display: block; margin: auto;" />
+              <p class="is-size-6 mt-2"><em>PSA outperforms baselines in Pass Rate, showing better user-preference compliance.</em></p>
+            </div>
+          </div>
+
+          <!-- Qualitative Visuals -->
+          <h3 class="title is-4 mt-6">Qualitative Comparison</h3>
+          <p class="content has-text-justified">
+            The following visualization demonstrates how PSA dynamically adjusts visual outputs across multiple user safety levels.
+          </p>
+          <div class="has-text-centered mb-5">
+            <img src="./assets/compare.png" alt="Qualitative Comparison" style="width: 100%; display: block; margin: auto;" />
+            <p class="is-size-6 mt-2">
+              <em>PSA suppresses harmful content (e.g., hate, sexuality, self-harm) progressively from Level 1 to Level 5.</em>
+            </p>
+          </div>
+
+          <!-- More Qualitative Examples: Stacked Layout -->
+          <h3 class="title is-4 mt-6">More Qualitative Examples</h3>
+          <p class="content has-text-justified">
+            We further showcase PSA’s generalization across SDXL and SD v1.5 architectures. These examples span diverse harmful categories and validate consistent suppression through user conditioning.
+          </p>
+
+          <div class="has-text-centered mb-5">
+            <img src="./assets/addition1.png" alt="Qualitative Results - SDXL" style="max-width: 100%; margin-bottom: 1rem;">
+            <p class="is-size-6 mt-1"><em>PSA suppression from Level 1 to 5 on SDXL across harassment, hate, sexuality, shocking, and violence categories.</em></p>
+          </div>
+
+          <div class="has-text-centered mb-5">
+            <img src="./assets/addition2.png" alt="Qualitative Results - SD v1.5" style="max-width: 100%; margin-bottom: 1rem;">
+            <p class="is-size-6 mt-1"><em>PSA suppression from Level 1 to 5 on SD v1.5 backbone, achieving consistent results under lighter architectures.</em></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section" id="BibTeX">
+    <div class="container content is-max-desktop">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@article{lei2025psalign,
+  title={Personalized Safety Alignment for Text-to-Image Diffusion Models},
+  author={Yu Lei and Jinbin Bai and Aosong Feng and Qingyu Shi and Kaidong Yu},
+  journal={arXiv preprint arXiv:2507.08261},
+  year={2025}
+}</code></pre>
+  </div>
+  </section>
+
+  <script type="text/javascript" src="./static/slick/slick.js"></script>
+</body>
+
+</html>

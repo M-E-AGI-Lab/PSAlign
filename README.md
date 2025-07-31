@@ -73,7 +73,7 @@ python -c "import torch; print('PyTorch version:', torch.__version__)"
 ```bash
 wget https://anonymous.url/sage_dataset -O data/sage/sage_dataset.zip
 unzip data/sage/sage_dataset.zip -d data/sage/
-```  
+```
 
 ### Structure  
 ```
@@ -81,7 +81,7 @@ data/sage/
 ├── [train/val/test_seen/test_unseen]/
 │   ├── metadata.jsonl  # Annotations: prompts, labels, user profiles
 │   └── [image files]   # e.g., user_0000030_harassment_00001_s.jpg
-```  
+```
 
 
 ## 🚀 Usage
