@@ -77,10 +77,19 @@ python -c "import torch; print('PyTorch version:', torch.__version__)"
 - User metadata (age, gender, religion, etc.) for personalization.  
 - Split into train/val/test_seen/test_unseen for robust evaluation.  
 
-### Download  
+
+### Download
+
+Please manually download the dataset from the following Google Drive link:
+
+👉 [Download `sage.zip`](https://drive.google.com/file/d/1P9hdl1QtXDhF52T6gtQsTyX_GUsf-O4U/view?usp=sharing)
+
+After downloading, move the file to `data/` and unzip it:
+
 ```bash
-wget https://anonymous.url/sage_dataset -O data/sage/sage_dataset.zip
-unzip data/sage/sage_dataset.zip -d data/sage/
+mkdir -p data/
+mv ~/Downloads/sage.zip data/         # Adjust path if needed
+unzip data/sage.zip -d data/
 ```
 
 ### Structure  
@@ -95,8 +104,6 @@ data/sage/
 ## 🚀 Usage
 
 ### 🔧 Training PSA Adapters
-
-PSA adapters are lightweight (8-15MB) and train quickly on a single GPU.
 
 #### For Stable Diffusion 1.5
 ```bash
