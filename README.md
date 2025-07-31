@@ -7,13 +7,13 @@
 [![SAGE Dataset](https://img.shields.io/badge/Dataset-SAGE-blue.svg)](https://drive.google.com/file/d/1P9hdl1QtXDhF52T6gtQsTyX_GUsf-O4U/view?usp=sharing)
 [![Pretrained Models](https://img.shields.io/badge/Models-PSAlign-blue.svg)](https://drive.google.com/file/d/1FKwP69UBmOSXiOYka0_1zJNYR33dPUY2/view)
 
-Yu Lei<sup>1</sup>, Jinbin Bai<sup>12†</sup>, Qingyu Shi<sup>13</sup>, Aosong Feng<sup>4</sup>, Kaidong Yu<sup>1‡</sup>
+Yu Lei, Jinbin Bai<sup>†</sup>, Qingyu Shi, Aosong Feng, Kaidong Yu<sup>‡</sup>
 <br>
-<sup>1</sup>TeleAI, China Telecom, <sup>2</sup>National University of Singapore, <br>
-<sup>3</sup>Peking University, <sup>4</sup>Yale University
+<sup>1</sup>TeleAI, China Telecom, <sup>2</sup>Peking University, <sup>3</sup>Yale University, <sup>4</sup>National University of Singapore 
 <br>
 <sup>†</sup>Project Lead, <sup>‡</sup>Corresponding Author
 </div>
+
 ## 🧠 Overview
 
 **PSAlign** is a novel framework enabling **personalized safety alignment** in text-to-image diffusion models. It dynamically adapts safety mechanisms to individual users’ characteristics (e.g., age, gender, cultural background) while preserving creativity and image fidelity.  
@@ -216,3 +216,12 @@ If you use this work, please cite:
   journal={arXiv preprint arXiv:2507.xxxxx},
   year={2025}
 }
+```
+
+---
+
+<p align="center">
+  <a href="https://star-history.com/#M-E-AGI-Lab/PSAlign&Date">
+    <img src="https://api.star-history.com/svg?repos=M-E-AGI-Lab/PSAlign&type=Date" alt="Star History Chart">
+  </a>
+</p>
