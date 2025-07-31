@@ -14,6 +14,7 @@ Yu Lei<sup>1</sup>, Jinbin Bai<sup>12†</sup>, Aosong Feng<sup>3</sup>, Qingyu 
 <br>
 <sup>†</sup>Project Lead, <sup>‡</sup>Corresponding Author
 </div>
+
 ## 🧠 Overview
 
 **PSAlign** is a novel framework enabling **personalized safety alignment** in text-to-image diffusion models. It dynamically adapts safety mechanisms to individual users’ characteristics (e.g., age, gender, cultural background) while preserving creativity and image fidelity.  
