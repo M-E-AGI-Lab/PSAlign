@@ -184,27 +184,6 @@ bash run_eval_gpt.sh --mode compare --dataset all --model-a safetydpo --model-b 
 - **Output**: Results saved to `results_evaluate/` or `results_compare/` (includes GPT judgments and summary stats).  
 
 
-## 💾 Pretrained Models
-
-| Model Name       | Base Model         | Size  | Use Case                  | Download Link                              |
-|------------------|--------------------|-------|---------------------------|--------------------------------------------|
-| `psa-sd15`       | SD 1.5             | 8MB   | General personalized safety | [Link](https://anonymous.url/psa_models)    |
-| `psa-sdxl`       | SDXL               | 12MB  | High-fidelity images      | [Link](https://anonymous.url/psa_models)    |
-| `psa-sdxl-vipl`  | SDXL + VIPL        | 15MB  | Enhanced visual quality   | [Link](https://anonymous.url/psa_models)    |
-
-
-## ❓ FAQ
-
-- **Q: What GPU is required?**  
-  A: Training: ≥12GB VRAM (e.g., RTX 3090). Inference: ≥8GB VRAM.  
-
-- **Q: How to create custom user embeddings?**  
-  A: Use `utils/generate_user_embeddings.py` with user metadata (age, gender, etc.).  
-
-- **Q: Why is my FID score high?**  
-  A: Ensure the base model is correctly loaded and `eval_images` contains all generated samples.  
-
-
 ## 📜 License
 
 This project is licensed under the MIT License. See `LICENSE` for details.  
