@@ -48,6 +48,7 @@ data/embeddings/*
 
 data/sage/*
 !data/sage/README.md
+!data/sage/val/metadata.jsonl
 
 data/user_data/num_1k/embeddings/*
 !data/embeddings/0000001.npy

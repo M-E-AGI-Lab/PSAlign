@@ -139,12 +139,12 @@ Saved in `results_compare/`:
 
 ## 🛠️ Helper Script
 
-Use `run_evaluation.sh` for quick access:
+Use `run_eval_gpt.sh` for quick access:
 
 ```bash
 # Evaluate models
-./run_evaluation.sh --mode evaluate --dataset sage_seen --models base psa
+./run_eval_gpt.sh --mode evaluate --dataset sage_seen --models base psa
 
 # Compare two models
-./run_evaluation.sh --mode compare --dataset sage_seen --model-a base --model-b psa
+./run_eval_gpt.sh --mode compare --dataset sage_seen --model-a base --model-b psa
 ```
