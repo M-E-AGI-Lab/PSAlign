@@ -373,7 +373,7 @@ def load_models(args, accelerator):
         deepspeed_plugin = AcceleratorState().deepspeed_plugin if accelerate.state.is_initialized() else None
         return [deepspeed_plugin.zero3_init_context_manager(enable=False)] if deepspeed_plugin else []
 
-    with ContextManagers(deepspeed_zero_init_disabled_context_manager()):
+    with ContextManagers(deepspeed_zero_init_disabled_context_manager()): 
         if args.sdxl:
             # Load SDXL models
             tokenizer_name = ("stabilityai/stable-diffusion-xl-base-1.0" 

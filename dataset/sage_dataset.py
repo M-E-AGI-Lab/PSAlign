@@ -33,7 +33,7 @@ class SageDataset(Dataset):
         if not sdxl:
             assert tokenizer is not None, "Tokenizer must be provided for non-SDXL mode"
 
-        with open(metadata_path, 'r', encoding='utf-8') as f:
+        with open(metadata_path, 'r', encoding='utf-8') as f: 
             self.records = [json.loads(line) for line in f]
 
         self.image_root = image_root

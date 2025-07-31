@@ -211,7 +211,7 @@ def batch_user_data_to_embedding(
             truncation=True
         ).to(model.device)
         
-        # Get model outputs
+        # Get model outputs 
         outputs = model(
             **inputs,
             output_hidden_states=True,
