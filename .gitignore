@@ -33,6 +33,9 @@ var/
 .env.local
 .env.*.local
 
+# Image
+*.jpg
+
 # Large file directory
 trained_models/*
 !trained_models/README.md
@@ -45,12 +48,6 @@ data/embeddings/*
 
 data/sage/*
 !data/sage/README.md
-!data/sage/train/
-!data/sage/val/
-!data/sage/test_seen/
-!data/sage/test_unseen/
-data/sage/val/*
-!data/sage/val/metadata.jsonl
 
 data/user_data/num_1k/embeddings/*
 !data/embeddings/0000001.npy
@@ -64,3 +61,5 @@ evaluation/eval_images/*
 evaluation/Q16/data/*
 !evaluation/Q16/data/ViT-L-14/
 !evaluation/Q16/data/ViT-L-14/*
+
+inference_results/*
