@@ -216,6 +216,7 @@ If you use this work, please cite:
   journal={arXiv preprint arXiv:2507.xxxxx},
   year={2025}
 }
+```
 
 ---
 
