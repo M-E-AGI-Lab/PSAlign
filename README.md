@@ -7,10 +7,10 @@
 [![SAGE Dataset](https://img.shields.io/badge/Dataset-SAGE-blue.svg)](https://drive.google.com/file/d/1P9hdl1QtXDhF52T6gtQsTyX_GUsf-O4U/view?usp=sharing)
 [![Pretrained Models](https://img.shields.io/badge/Models-PSAlign-blue.svg)](https://drive.google.com/file/d/1FKwP69UBmOSXiOYka0_1zJNYR33dPUY2/view)
 
-Yu Lei<sup>1</sup>, Jinbin Bai<sup>12†</sup>, Aosong Feng<sup>3</sup>, Qingyu Shi<sup>14</sup>, Kaidong Yu<sup>1‡</sup>
+Yu Lei<sup>1</sup>, Jinbin Bai<sup>12†</sup>, Qingyu Shi<sup>13</sup>, Aosong Feng<sup>4</sup>, Kaidong Yu<sup>1‡</sup>
 <br>
 <sup>1</sup>TeleAI, China Telecom, <sup>2</sup>National University of Singapore, <br>
-<sup>3</sup>Yale University, <sup>4</sup>Peking University
+<sup>3</sup>Peking University, <sup>4</sup>Yale University
 <br>
 <sup>†</sup>Project Lead, <sup>‡</sup>Corresponding Author
 </div>
