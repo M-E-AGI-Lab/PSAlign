@@ -219,7 +219,7 @@ If you use this work, please cite:
 ```bibtex
 @article{lei2025psalign,
   title={Personalized Safety Alignment for Text-to-Image Diffusion Models},
-  author={Yu Lei and Jinbin Bai and Aosong Feng and Qingyu Shi and Kaidong Yu},
+  author={Yu Lei and Jinbin Bai and Qingyu Shi and Aosong Feng and Kaidong Yu},
   journal={arXiv preprint arXiv:2507.xxxxx},
   year={2025}
 }
