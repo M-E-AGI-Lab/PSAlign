@@ -71,4 +71,4 @@ Each line in `metadata.jsonl` contains the annotation for a prompt-image pair:
 
 ## Download
 
-The full dataset and accompanying code are available on the [project page](https://github.com/Torpedo2648/PSAlign).
+The full dataset and accompanying code are available on [Google drive](https://drive.google.com/file/d/1P9hdl1QtXDhF52T6gtQsTyX_GUsf-O4U/view?usp=sharing).

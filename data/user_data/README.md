@@ -27,7 +27,7 @@ User data should be in JSON format with the following fields:
 ```json
 {
     "Age": int,
-    "Age_Group": "Minor|Adult",
+    "Age_Group": string,
     "Gender": string,
     "Religion": string,
     "Physical_Condition": string,

@@ -17,10 +17,10 @@ Before running the evaluation, ensure the following pretrained models are correc
 
 ```bash
 # CLIP model (ViT-L-14) used by Q16 classifier
-~/.cache/clip/ViT-L-14.pt
+$HOME/.cache/clip/ViT-L-14.pt
 
 # Inception model for FID computation
-~/.cache/torch/hub/checkpoints/pt_inception-2015-12-05-6726825d.pth
+$HOME/.cache/torch/hub/checkpoints/pt_inception-2015-12-05-6726825d.pth
 
 # LAION-CLIP model (ViT-H-14) for CLIP score
 $HF_HOME/hub/models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K/snapshots/1c2b8495b28150b8a4922ee1c8edee224c284c0c/open_clip_model.safetensors
@@ -30,34 +30,40 @@ $HF_HOME/hub/models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K/snapshots/1c2b8495b2
 
 ## 🔁 Reproducible Baselines
 
-To ensure **fair and consistent comparisons**, we re-trained all baseline safety alignment methods on our datasets using their publicly available implementations and aligned training objectives. This allows for meaningful evaluation under the same generation settings and data splits.
-
-The following pre-trained model weights for all evaluated methods are available via **[Google Drive (link)](https://drive.google.com)** for easy access and reproducibility.
+To ensure **fair and consistent comparisons**, we evaluated multiple safety alignment methods using their publicly available implementations. We provide our re-implementation of **SafetyDPO** trained on our Sage dataset, while other methods can be easily trained using their original repositories.
 
 ### 📦 Baseline Checkpoints
 
 | Method        | Model Type | Weight Path (Local Path Example)                                                           |
 | ------------- | ---------- | ------------------------------------------------------------------------------------------ |
-| **SafetyDPO** | SD15       | `~/workspace/SafetyDPO/trained_models/safetydpo-sd15/`                                     |
-|               | SDXL       | `~/workspace/SafetyDPO/trained_models/safetydpo-sdxl/`                                     |
-| **ESD-U**     | SD15       | `~/workspace/erasing/esd-models/sd/esdu.safetensors`                                       |
+| **SafetyDPO** | SD15       | `~/workspace/SafetyDPO/safetydpo-models/sd15/pytorch_lora_weights.safetensors`             |
+|               | SDXL       | `~/workspace/SafetyDPO/safetydpo-models/sdxl/pytorch_lora_weights.safetensors`             |
+| **ESD-U**     | SD15       | `~/workspace/erasing/esd-models/sd15/esdu.safetensors`                                     |
 |               | SDXL       | `~/workspace/erasing/esd-models/sdxl/esdu.safetensors`                                     |
-| **UCE**       | SD15       | `~/workspace/unified-concept-editing/uce_models/nsfw_uce_sd.safetensors`                   |
-|               | SDXL       | `~/workspace/unified-concept-editing/uce_models/nsfw_uce_sdxl.safetensors`                 |
+| **UCE**       | SD15       | `~/workspace/unified-concept-editing/uce_models/sd15/uce.safetensors`                 |
+|               | SDXL       | `~/workspace/unified-concept-editing/uce_models/sdxl/uce.safetensors`                 |
 | **SLD**       | SD15 only  | Concepts: `"NSFW, Hate, Harassment, Violence, Self-Harm, Sexuality, Shocking, Propaganda"` |
 
-> ⚠️ For methods like **SLD**, only SD15 is supported due to lack of SDXL implementation in public repos.
-> All baseline methods were re-trained using their default or recommended settings unless otherwise noted.
+> Note: For evaluation, place your trained model weights in the paths shown in the table above.
 
----
+### 🛠️ Training Other Baselines
 
-### 🔗 Download Pretrained Models
+Due to storage constraints, we only provide our SafetyDPO weights trained on the Sage dataset. However, you can easily train other baseline methods using their official implementations:
 
-All the baseline weights used in evaluation have been consolidated into a single shared Google Drive folder:
+- **SLD**: Follow instructions at [Safe Latent Diffusion](https://github.com/ml-research/safe-latent-diffusion)
+- **ESD-U**: Follow instructions at [Erasing](https://github.com/rohitgandikota/erasing)
+- **UCE**: Follow instructions at [Unified Concept Editing](https://github.com/rohitgandikota/unified-concept-editing)
 
-👉 **[Download all baseline weights from Google Drive](https://drive.google.com/your_link_here)**
+When training these models, use the following concepts for alignment:
+```
+"NSFW, Hate, Harassment, Violence, Self-Harm, Sexuality, Shocking, Propaganda"
+```
 
-Ensure these weights are placed at the correct local paths (or update the configs accordingly).
+### 🔗 Download SafetyDPO Weights
+
+You can download our trained SafetyDPO weights:
+
+👉 **[Download SafetyDPO weights from Google Drive](https://drive.google.com/your_link_here)**
 
 ---
 
@@ -151,34 +157,3 @@ The evaluation results are stored in a `.csv` file with the following columns:
 * `score`: Numerical result
 * `state`: Evaluation status
 * `timestamp`: Timestamp of evaluation
-
----
-
-## ⚠️ Notes and Recommendations
-
-### Image Generation
-
-* Ensure all model checkpoints and embedding folders are properly configured.
-* Run generation **separately for each dataset**.
-* Monitor disk usage — image generation is storage-intensive.
-
-### Evaluation
-
-* FID computation will cache dataset statistics automatically.
-* InPro evaluation requires Q16 classifier and NudeNet to be set up.
-* Previously completed results will be skipped automatically.
-
-### Performance Tips
-
-* Multi-GPU setup significantly speeds up generation and evaluation.
-* FID supports multi-CPU acceleration.
-* You may tweak `batch_size` in generation scripts to balance speed and memory.
-
----
-
-## 🤝 Acknowledgements
-
-We gratefully acknowledge the following open-source projects for their valuable contributions:
-
-* [Q16 Classifier (ML Research)](https://github.com/ml-research/Q16.git) – used in our InPro metric computation
-* [DiffusionDPO (Salesforce AI Research)](https://github.com/SalesforceAIResearch/DiffusionDPO) – used as a safety alignment baseline

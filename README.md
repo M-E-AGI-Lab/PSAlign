@@ -76,9 +76,7 @@ Key features:
 
 ### Download
 
-Please manually download the dataset from the following Google Drive link:
-
-👉 [Download `sage.zip`](https://drive.google.com/file/d/1P9hdl1QtXDhF52T6gtQsTyX_GUsf-O4U/view?usp=sharing)
+Please manually download the dataset from the following Google Drive link: 👉 [Download `sage.zip`](https://drive.google.com/file/d/1P9hdl1QtXDhF52T6gtQsTyX_GUsf-O4U/view?usp=sharing)
 
 After downloading, move the file to `data/` and unzip it:
 
@@ -167,10 +165,9 @@ Evaluate image fidelity, text alignment, and harmful content suppression:
 # Run with GPUs 0,1,2,3 (adjust based on available GPUs)
 python scripts/run_eval.py --gpus 0,1,2,3 --output eval_results.csv
 ```
-- **Metrics**:  
-  - `FID`: Measures realism (lower = better).  
-  - `CLIPScore`: Measures text-image alignment (higher = better).  
-  - `InPro`: Measures inappropriate content (lower = better).  
+- `FID`: Measures realism (lower = better).  
+- `CLIPScore`: Measures text-image alignment (higher = better).  
+- `InPro`: Measures inappropriate content (lower = better).  
 
 
 ### 3. Personalized Safety Alignment (GPT-based)
@@ -188,17 +185,15 @@ bash run_eval_gpt.sh --mode compare --dataset all --model-a safetydpo --model-b 
 Results saved to `results_evaluate/` or `results_compare/` (includes GPT judgments and summary stats).  
 
 
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` for details.  
-
-
 ## 🤝 Acknowledgements
 
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) for base model.  
-- [SafetyDPO](https://github.com/Visualignment/SafetyDPO) for baseline safety tuning.  
 - [Q16](https://github.com/ml-research/Q16) for safety classification.  
 - [DiffusionDPO](https://github.com/SalesforceAIResearch/DiffusionDPO) for RLHF framework.  
+- [SafetyDPO](https://github.com/Visualignment/SafetyDPO) for baseline safety tuning.
+- [Safe Latent Diffusion](https://github.com/ml-research/safe-latent-diffusion) for SLD baseline.
+- [Erasing](https://github.com/rohitgandikota/erasing) for ESD-U baseline.
+- [Unified Concept Editing](https://github.com/rohitgandikota/unified-concept-editing) for UCE baseline.
 
 
 ## 📖 Citation

@@ -25,12 +25,12 @@ PROMPTS="./eval_data/${DATASET}.csv"
 OUTPUT_BASE="./eval_images/${DATASET}"
 
 # LoRA / Safety edit paths
-LOADER_SD15_LORA="~/workspace/SafetyDPO/trained_models/safetydpo-sd15/"
-LOADER_SDXL_LORA="~/workspace/SafetyDPO/trained_models/safetydpo-sdxl/"
-ESDU_SD15_PATH="~/workspace/erasing/esd-models/sd/esd-NSFW,_Hate,_Harassment,_Violence,_Self-Harm,_Sexuality,_Shocking,_Propaganda-from-NSFW,_Hate,_Harassment,_Violence,_Self-Harm,_Sexuality,_Shocking,_Propaganda-esdu.safetensors"
-ESDU_SDXL_PATH="~/workspace/erasing/esd-models/sdxl/esd-NSFW,_Hate,_Harassment,_Violence,_Self-Harm,_Sexuality,_Shocking,_Propaganda-from-NSFW,_Hate,_Harassment,_Violence,_Self-Harm,_Sexuality,_Shocking,_Propaganda-esdu.safetensors"
-UCE_SD15_PATH="~/workspace/unified-concept-editing/uce_models/nsfw_uce_sd.safetensors"
-UCE_SDXL_PATH="~/workspace/unified-concept-editing/uce_models/nsfw_uce_sdxl.safetensors"
+LOADER_SD15_LORA="~/workspace/SafetyDPO/safetydpo-models/sd15/pytorch_lora_weights.safetensors"
+LOADER_SDXL_LORA="~/workspace/SafetyDPO/safetydpo-models/sdxl/pytorch_lora_weights.safetensors"
+ESDU_SD15_PATH="~/workspace/erasing/esd-models/sd15/esdu.safetensors"
+ESDU_SDXL_PATH="~/workspace/erasing/esd-models/sdxl/esdu.safetensors"
+UCE_SD15_PATH="~/workspace/unified-concept-editing/uce_models/sd15/uce.safetensors"
+UCE_SDXL_PATH="~/workspace/unified-concept-editing/uce_models/sdxl/uce.safetensors"
 SLD_CONCEPT="NSFW, Hate, Harassment, Violence, Self-Harm, Sexuality, Shocking, Propaganda"
 
 ############################
