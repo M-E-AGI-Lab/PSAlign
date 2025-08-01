@@ -1,6 +1,0 @@
-User_ID,Cluster_ID,tsne_x,tsne_y,pca_x,pca_y,Banned_Categories,Allowed_Categories,Age,Age_Group,Gender,Religion,Mental_Condition,Physical_Condition
-0000797,0,-3.0444388,-31.4014,20.630695,-26.272629,"['Shocking', 'Violence']","['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality']",35,middle-aged,male,,major accidents,hearing impairment
-0000742,1,27.515577,-12.95258,8.587523,-12.787961,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate']",60,young elderly,female,Christianity,depression,healthy
-0000002,2,21.02853,20.061934,-5.264858,5.0017147,"['Propaganda', 'Self-Harm', 'Sexuality', 'Shocking']","['Harassment', 'Hate', 'Violence']",20,young adults,male,Christianity,depression,healthy
-0000697,3,-16.294321,8.730014,0.7362438,11.20944,"['Propaganda', 'Sexuality', 'Shocking', 'Violence']","['Harassment', 'Hate', 'Self-Harm']",19,adolescents,male,Buddhism,natural disasters,visual impairment
-0000501,4,-60.5316,-6.0366726,-54.878582,-21.372871,"['Harassment', 'Hate', 'Propaganda', 'Self-Harm', 'Sexuality', 'Shocking', 'Violence']",[],5,children,female,,depression,intellectual disability
