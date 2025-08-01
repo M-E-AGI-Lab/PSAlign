@@ -73,6 +73,7 @@ Key features:
 - User metadata (age, gender, religion, etc.) for personalization.  
 - Split into train/val/test_seen/test_unseen for robust evaluation.  
 
+For more detailed explanations, please refer to [data/user_data/README.md](data/user_data/README.md) and [data/sage/README.md](data/sage/README.md).
 
 ### Download
 
@@ -142,7 +143,7 @@ bash launchers/infer_sdxl_psa_llm.sh
 
 ## 📊 Evaluation
 
-Follow these steps to reproduce the paper’s evaluation results.
+Follow these steps to reproduce the paper’s evaluation results. For more detailed explanations, please refer to [evaluation/README.md](evaluation/README.md) and [evaluation/eval_gpt/README.md](evaluation/eval_gpt/README.md).
 
 ### 1. Generate Evaluation Images
 First, generate images for all models (PSAlign + baselines) across benchmark datasets:
