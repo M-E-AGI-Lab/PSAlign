@@ -63,7 +63,7 @@ When training these models, use the following concepts for alignment:
 
 You can download our trained SafetyDPO weights:
 
-👉 **[Download SafetyDPO weights from Google Drive](https://drive.google.com/your_link_here)**
+👉 **[Download SafetyDPO weights from Google Drive](https://drive.google.com/file/d/1j4YKCpYqI_ZvaC2KCgCUrgFUPyi8maHW/view?usp=sharing)**
 
 ---
 
