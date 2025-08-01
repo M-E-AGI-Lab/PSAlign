@@ -2,7 +2,6 @@
 
 This tool evaluates the safety alignment of PSAlign-generated images using GPT-4.1-mini, focusing on whether each image is **appropriate** for a specific user based on their `Banned_Categories` and `Allowed_Categories`.
 
----
 
 ## 🧠 Overview
 
@@ -11,14 +10,13 @@ The evaluator supports two modes:
 * **Evaluate**: Assess safety alignment for individual models.
 * **Compare**: Compare output quality and alignment between two models.
 
----
 
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/Torpedo2648/PSAlign.git
 cd PSAlign/evaluation/eval_gpt
-pip install openai python-dotenv tqdm pandas numpy
+pip install openai python-dotenv
 ```
 
 ### Configure Environment
@@ -33,7 +31,6 @@ ENGINE=gpt-4.1-mini
 API_TIMEOUT=120.0
 ```
 
----
 
 ## 🚀 Usage
 
@@ -88,17 +85,7 @@ python compare_images.py --dataset sage_seen \
     --model-a-name "ESDU Model" --model-b-name "SafetyDPO Model"
 ```
 
----
-
-## 📂 Inputs
-
-`user_info.csv` Must include:
-
-* `User_ID`, `Cluster_ID`
-* `Banned_Categories`, `Allowed_Categories`
-* `Age`, `Gender`, `Religion`, etc.
-
-### Image Directory Structure
+### Input Image Directory
 
 ```
 eval_images/
@@ -112,8 +99,6 @@ eval_images/
           - user_{user_id}_[...].png
   - sage_unseen/  # Same structure as sage_seen
 ```
-
-> Filenames must include `user_{user_id}`.
 
 ---
 
