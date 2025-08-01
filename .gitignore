@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment variables & configs
+*.env
+.env.*
+.envrc
+*.secret
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and local debug files
+*.log
+*.out
+
+# Model checkpoints / datasets / results
+checkpoints/
+logs/
+runs/
+output/
+data/
+trained_models/
+*.ckpt
+*.pt
+*.pth
+*.h5
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+
+# Ignore model card or other cache
+huggingface/
+transformers_cache/
+datasets_cache/
+__results__/
+
+# If you use Poetry
+poetry.lock
+
+# If you use pipenv
+Pipfile.lock
