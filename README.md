@@ -3,7 +3,7 @@
 <h1>PSAlign: Personalized Safety Alignment for Text-to-Image Diffusion Models</h1>
 
 [![Project](https://img.shields.io/badge/Project-PSAlign-20B2AA.svg)](https://m-e-agi-lab.github.io/PSAlign/)
-[![Arxiv](https://img.shields.io/badge/ArXiv-2507.xxxxx-%23840707.svg)](https://arxiv.org/abs/2507.xxxxx)
+[![Arxiv](https://img.shields.io/badge/ArXiv-2508.01151-%23840707.svg)](https://arxiv.org/abs/2508.01151)
 [![SAGE Dataset](https://img.shields.io/badge/Dataset-SAGE-blue.svg)](https://drive.google.com/file/d/1P9hdl1QtXDhF52T6gtQsTyX_GUsf-O4U/view?usp=sharing)
 [![Pretrained Models](https://img.shields.io/badge/Models-PSAlign-blue.svg)](https://drive.google.com/file/d/1FKwP69UBmOSXiOYka0_1zJNYR33dPUY2/view)
 
@@ -205,7 +205,7 @@ If you use this work, please cite:
 @article{lei2025psalign,
   title={Personalized Safety Alignment for Text-to-Image Diffusion Models},
   author={Yu Lei and Jinbin Bai and Qingyu Shi and Aosong Feng and Kaidong Yu},
-  journal={arXiv preprint arXiv:2507.xxxxx},
+  journal={arXiv preprint arXiv:2508.01151},
   year={2025}
 }
 ```
