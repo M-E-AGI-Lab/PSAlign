@@ -14,6 +14,9 @@ Yu Lei, Jinbin Bai<sup>†</sup>, Qingyu Shi, Aosong Feng, Kaidong Yu<sup>‡</s
 <sup>†</sup>Project Lead, <sup>‡</sup>Corresponding Author
 </div>
 
+<p align="center">
+<img width="60%" alt="image" src=""/>
+</p>
 
 ## 🧠 Overview
 
