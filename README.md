@@ -204,9 +204,9 @@ Results saved to `results_evaluate/` or `results_compare/` (includes GPT judgmen
 If you use this work, please cite:
 
 ```bibtex
-@article{lei2025psalign,
+@article{lei2025personalized,
   title={Personalized Safety Alignment for Text-to-Image Diffusion Models},
-  author={Yu Lei and Jinbin Bai and Qingyu Shi and Aosong Feng and Kaidong Yu},
+  author={Lei, Yu and Bai, Jinbin and Shi, Qingyu and Feng, Aosong and Yu, Kaidong},
   journal={arXiv preprint arXiv:2508.01151},
   year={2025}
 }
