@@ -7,6 +7,8 @@
 [![SAGE Dataset](https://img.shields.io/badge/Dataset-SAGE-blue.svg)](https://drive.google.com/file/d/1P9hdl1QtXDhF52T6gtQsTyX_GUsf-O4U/view?usp=sharing)
 [![Pretrained Models](https://img.shields.io/badge/Models-PSAlign-blue.svg)](https://drive.google.com/file/d/1FKwP69UBmOSXiOYka0_1zJNYR33dPUY2/view)
 
+</div>
+
 <p align="center">
 <img width="500" alt="image" src="./assets/demo.png"/>
 </p>
